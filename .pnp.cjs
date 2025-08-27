@@ -195,8 +195,68 @@ const RAW_RUNTIME_STATE =
       "npm:4.0.0"\
     ],\
     [\
+      "@parcel/watcher",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-android-arm64",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-darwin-arm64",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-darwin-x64",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-freebsd-x64",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-arm-glibc",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-arm-musl",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-arm64-glibc",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-arm64-musl",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-x64-glibc",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-linux-x64-musl",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-win32-arm64",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-win32-ia32",\
+      "npm:2.5.1"\
+    ],\
+    [\
+      "@parcel/watcher-win32-x64",\
+      "npm:2.5.1"\
+    ],\
+    [\
       "@pkgjs/parseargs",\
       "npm:0.11.0"\
+    ],\
+    [\
+      "@popperjs/core",\
+      "npm:2.11.8"\
     ],\
     [\
       "@rolldown/pluginutils",\
@@ -375,16 +435,56 @@ const RAW_RUNTIME_STATE =
       "npm:6.12.6"\
     ],\
     [\
+      "ansi-escapes",\
+      "npm:7.0.0"\
+    ],\
+    [\
       "ansi-regex",\
       "npm:6.2.0"\
     ],\
     [\
       "ansi-styles",\
-      "npm:4.3.0"\
+      "npm:6.2.1"\
     ],\
     [\
       "argparse",\
       "npm:2.0.1"\
+    ],\
+    [\
+      "array-buffer-byte-length",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "array-includes",\
+      "npm:3.1.9"\
+    ],\
+    [\
+      "array.prototype.findlast",\
+      "npm:1.2.5"\
+    ],\
+    [\
+      "array.prototype.flat",\
+      "npm:1.3.3"\
+    ],\
+    [\
+      "array.prototype.flatmap",\
+      "npm:1.3.3"\
+    ],\
+    [\
+      "array.prototype.tosorted",\
+      "npm:1.1.4"\
+    ],\
+    [\
+      "arraybuffer.prototype.slice",\
+      "npm:1.0.4"\
+    ],\
+    [\
+      "async-function",\
+      "npm:1.0.0"\
+    ],\
+    [\
+      "available-typed-arrays",\
+      "npm:1.0.7"\
     ],\
     [\
       "balanced-match",\
@@ -399,8 +499,24 @@ const RAW_RUNTIME_STATE =
       "npm:1.1.12"\
     ],\
     [\
+      "braces",\
+      "npm:3.0.3"\
+    ],\
+    [\
       "cacache",\
       "npm:19.0.1"\
+    ],\
+    [\
+      "call-bind",\
+      "npm:1.0.8"\
+    ],\
+    [\
+      "call-bind-apply-helpers",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "call-bound",\
+      "npm:1.0.4"\
     ],\
     [\
       "callsites",\
@@ -411,8 +527,20 @@ const RAW_RUNTIME_STATE =
       "npm:4.1.2"\
     ],\
     [\
+      "chokidar",\
+      "npm:4.0.3"\
+    ],\
+    [\
       "chownr",\
       "npm:3.0.0"\
+    ],\
+    [\
+      "cli-cursor",\
+      "npm:5.0.0"\
+    ],\
+    [\
+      "cli-truncate",\
+      "npm:4.0.0"\
     ],\
     [\
       "color-convert",\
@@ -421,6 +549,14 @@ const RAW_RUNTIME_STATE =
     [\
       "color-name",\
       "npm:1.1.4"\
+    ],\
+    [\
+      "colorette",\
+      "npm:2.0.20"\
+    ],\
+    [\
+      "commander",\
+      "npm:14.0.0"\
     ],\
     [\
       "concat-map",\
@@ -435,12 +571,44 @@ const RAW_RUNTIME_STATE =
       "npm:3.1.3"\
     ],\
     [\
+      "data-view-buffer",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "data-view-byte-length",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "data-view-byte-offset",\
+      "npm:1.0.1"\
+    ],\
+    [\
       "debug",\
-      "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"\
+      "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"\
     ],\
     [\
       "deep-is",\
       "npm:0.1.4"\
+    ],\
+    [\
+      "define-data-property",\
+      "npm:1.1.4"\
+    ],\
+    [\
+      "define-properties",\
+      "npm:1.2.1"\
+    ],\
+    [\
+      "detect-libc",\
+      "npm:1.0.3"\
+    ],\
+    [\
+      "doctrine",\
+      "npm:2.1.0"\
+    ],\
+    [\
+      "dunder-proto",\
+      "npm:1.0.1"\
     ],\
     [\
       "eastasianwidth",\
@@ -448,7 +616,7 @@ const RAW_RUNTIME_STATE =
     ],\
     [\
       "emoji-regex",\
-      "npm:9.2.2"\
+      "npm:10.4.0"\
     ],\
     [\
       "encoding",\
@@ -459,8 +627,44 @@ const RAW_RUNTIME_STATE =
       "npm:2.2.1"\
     ],\
     [\
+      "environment",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "err-code",\
       "npm:2.0.3"\
+    ],\
+    [\
+      "es-abstract",\
+      "npm:1.24.0"\
+    ],\
+    [\
+      "es-define-property",\
+      "npm:1.0.1"\
+    ],\
+    [\
+      "es-errors",\
+      "npm:1.3.0"\
+    ],\
+    [\
+      "es-iterator-helpers",\
+      "npm:1.2.1"\
+    ],\
+    [\
+      "es-object-atoms",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "es-set-tostringtag",\
+      "npm:2.1.0"\
+    ],\
+    [\
+      "es-shim-unscopables",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "es-to-primitive",\
+      "npm:1.3.0"\
     ],\
     [\
       "esbuild",\
@@ -473,6 +677,14 @@ const RAW_RUNTIME_STATE =
     [\
       "eslint",\
       "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"\
+    ],\
+    [\
+      "eslint-config-prettier",\
+      "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:10.1.8"\
+    ],\
+    [\
+      "eslint-plugin-react",\
+      "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.37.5"\
     ],\
     [\
       "eslint-plugin-react-hooks",\
@@ -511,6 +723,10 @@ const RAW_RUNTIME_STATE =
       "npm:2.0.3"\
     ],\
     [\
+      "eventemitter3",\
+      "npm:5.0.1"\
+    ],\
+    [\
       "exponential-backoff",\
       "npm:3.1.2"\
     ],\
@@ -535,6 +751,10 @@ const RAW_RUNTIME_STATE =
       "npm:8.0.0"\
     ],\
     [\
+      "fill-range",\
+      "npm:7.1.1"\
+    ],\
+    [\
       "find-up",\
       "npm:5.0.0"\
     ],\
@@ -545,6 +765,10 @@ const RAW_RUNTIME_STATE =
     [\
       "flatted",\
       "npm:3.3.3"\
+    ],\
+    [\
+      "for-each",\
+      "npm:0.3.5"\
     ],\
     [\
       "foreground-child",\
@@ -559,6 +783,34 @@ const RAW_RUNTIME_STATE =
       "patch:fsevents@npm%3A2.3.3#optional!builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"\
     ],\
     [\
+      "function-bind",\
+      "npm:1.1.2"\
+    ],\
+    [\
+      "function.prototype.name",\
+      "npm:1.1.8"\
+    ],\
+    [\
+      "functions-have-names",\
+      "npm:1.2.3"\
+    ],\
+    [\
+      "get-east-asian-width",\
+      "npm:1.3.0"\
+    ],\
+    [\
+      "get-intrinsic",\
+      "npm:1.3.0"\
+    ],\
+    [\
+      "get-proto",\
+      "npm:1.0.1"\
+    ],\
+    [\
+      "get-symbol-description",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "glob",\
       "npm:10.4.5"\
     ],\
@@ -571,12 +823,44 @@ const RAW_RUNTIME_STATE =
       "npm:16.3.0"\
     ],\
     [\
+      "globalthis",\
+      "npm:1.0.4"\
+    ],\
+    [\
+      "gopd",\
+      "npm:1.2.0"\
+    ],\
+    [\
       "graceful-fs",\
       "npm:4.2.11"\
     ],\
     [\
+      "has-bigints",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "has-flag",\
       "npm:4.0.0"\
+    ],\
+    [\
+      "has-property-descriptors",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "has-proto",\
+      "npm:1.2.0"\
+    ],\
+    [\
+      "has-symbols",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "has-tostringtag",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "hasown",\
+      "npm:2.0.2"\
     ],\
     [\
       "http-cache-semantics",\
@@ -591,12 +875,20 @@ const RAW_RUNTIME_STATE =
       "npm:7.0.6"\
     ],\
     [\
+      "husky",\
+      "npm:9.1.7"\
+    ],\
+    [\
       "iconv-lite",\
       "npm:0.6.3"\
     ],\
     [\
       "ignore",\
       "npm:5.3.2"\
+    ],\
+    [\
+      "immutable",\
+      "npm:5.1.3"\
     ],\
     [\
       "import-fresh",\
@@ -607,28 +899,136 @@ const RAW_RUNTIME_STATE =
       "npm:0.1.4"\
     ],\
     [\
+      "internal-slot",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "ip-address",\
       "npm:10.0.1"\
+    ],\
+    [\
+      "is-array-buffer",\
+      "npm:3.0.5"\
+    ],\
+    [\
+      "is-async-function",\
+      "npm:2.1.1"\
+    ],\
+    [\
+      "is-bigint",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "is-boolean-object",\
+      "npm:1.2.2"\
+    ],\
+    [\
+      "is-callable",\
+      "npm:1.2.7"\
+    ],\
+    [\
+      "is-core-module",\
+      "npm:2.16.1"\
+    ],\
+    [\
+      "is-data-view",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "is-date-object",\
+      "npm:1.1.0"\
     ],\
     [\
       "is-extglob",\
       "npm:2.1.1"\
     ],\
     [\
+      "is-finalizationregistry",\
+      "npm:1.1.1"\
+    ],\
+    [\
       "is-fullwidth-code-point",\
-      "npm:3.0.0"\
+      "npm:4.0.0"\
+    ],\
+    [\
+      "is-generator-function",\
+      "npm:1.1.0"\
     ],\
     [\
       "is-glob",\
       "npm:4.0.3"\
     ],\
     [\
+      "is-map",\
+      "npm:2.0.3"\
+    ],\
+    [\
+      "is-negative-zero",\
+      "npm:2.0.3"\
+    ],\
+    [\
+      "is-number",\
+      "npm:7.0.0"\
+    ],\
+    [\
+      "is-number-object",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "is-regex",\
+      "npm:1.2.1"\
+    ],\
+    [\
+      "is-set",\
+      "npm:2.0.3"\
+    ],\
+    [\
+      "is-shared-array-buffer",\
+      "npm:1.0.4"\
+    ],\
+    [\
+      "is-string",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "is-symbol",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "is-typed-array",\
+      "npm:1.1.15"\
+    ],\
+    [\
+      "is-weakmap",\
+      "npm:2.0.2"\
+    ],\
+    [\
+      "is-weakref",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "is-weakset",\
+      "npm:2.0.4"\
+    ],\
+    [\
+      "isarray",\
+      "npm:2.0.5"\
+    ],\
+    [\
       "isexe",\
       "npm:2.0.0"\
     ],\
     [\
+      "iterator.prototype",\
+      "npm:1.1.5"\
+    ],\
+    [\
       "jackspeak",\
       "npm:3.4.3"\
+    ],\
+    [\
+      "js-tokens",\
+      "npm:4.0.0"\
     ],\
     [\
       "js-yaml",\
@@ -647,12 +1047,28 @@ const RAW_RUNTIME_STATE =
       "npm:1.0.1"\
     ],\
     [\
+      "jsx-ast-utils",\
+      "npm:3.3.5"\
+    ],\
+    [\
       "keyv",\
       "npm:4.5.4"\
     ],\
     [\
       "levn",\
       "npm:0.4.1"\
+    ],\
+    [\
+      "lilconfig",\
+      "npm:3.1.3"\
+    ],\
+    [\
+      "lint-staged",\
+      "npm:16.1.5"\
+    ],\
+    [\
+      "listr2",\
+      "npm:9.0.2"\
     ],\
     [\
       "locate-path",\
@@ -663,12 +1079,32 @@ const RAW_RUNTIME_STATE =
       "npm:4.6.2"\
     ],\
     [\
+      "log-update",\
+      "npm:6.1.0"\
+    ],\
+    [\
+      "loose-envify",\
+      "npm:1.4.0"\
+    ],\
+    [\
       "lru-cache",\
       "npm:10.4.3"\
     ],\
     [\
       "make-fetch-happen",\
       "npm:14.0.3"\
+    ],\
+    [\
+      "math-intrinsics",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "micromatch",\
+      "npm:4.0.8"\
+    ],\
+    [\
+      "mimic-function",\
+      "npm:5.0.1"\
     ],\
     [\
       "minimatch",\
@@ -711,6 +1147,10 @@ const RAW_RUNTIME_STATE =
       "npm:2.1.3"\
     ],\
     [\
+      "nano-spawn",\
+      "npm:1.0.2"\
+    ],\
+    [\
       "nanoid",\
       "npm:3.3.11"\
     ],\
@@ -723,6 +1163,10 @@ const RAW_RUNTIME_STATE =
       "npm:1.0.0"\
     ],\
     [\
+      "node-addon-api",\
+      "npm:7.1.1"\
+    ],\
+    [\
       "node-gyp",\
       "npm:11.4.2"\
     ],\
@@ -731,8 +1175,44 @@ const RAW_RUNTIME_STATE =
       "npm:8.1.0"\
     ],\
     [\
+      "object-assign",\
+      "npm:4.1.1"\
+    ],\
+    [\
+      "object-inspect",\
+      "npm:1.13.4"\
+    ],\
+    [\
+      "object-keys",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "object.assign",\
+      "npm:4.1.7"\
+    ],\
+    [\
+      "object.entries",\
+      "npm:1.1.9"\
+    ],\
+    [\
+      "object.fromentries",\
+      "npm:2.0.8"\
+    ],\
+    [\
+      "object.values",\
+      "npm:1.2.1"\
+    ],\
+    [\
+      "onetime",\
+      "npm:7.0.0"\
+    ],\
+    [\
       "optionator",\
       "npm:0.9.4"\
+    ],\
+    [\
+      "own-keys",\
+      "npm:1.0.1"\
     ],\
     [\
       "p-limit",\
@@ -763,6 +1243,10 @@ const RAW_RUNTIME_STATE =
       "npm:3.1.1"\
     ],\
     [\
+      "path-parse",\
+      "npm:1.0.7"\
+    ],\
+    [\
       "path-scurry",\
       "npm:1.11.1"\
     ],\
@@ -775,6 +1259,14 @@ const RAW_RUNTIME_STATE =
       "npm:4.0.3"\
     ],\
     [\
+      "pidtree",\
+      "npm:0.6.0"\
+    ],\
+    [\
+      "possible-typed-array-names",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "postcss",\
       "npm:8.5.6"\
     ],\
@@ -783,12 +1275,20 @@ const RAW_RUNTIME_STATE =
       "npm:1.2.1"\
     ],\
     [\
+      "prettier",\
+      "npm:3.6.2"\
+    ],\
+    [\
       "proc-log",\
       "npm:5.0.0"\
     ],\
     [\
       "promise-retry",\
       "npm:2.0.1"\
+    ],\
+    [\
+      "prop-types",\
+      "npm:15.8.1"\
     ],\
     [\
       "punycode",\
@@ -803,20 +1303,64 @@ const RAW_RUNTIME_STATE =
       "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"\
     ],\
     [\
+      "react-is",\
+      "npm:16.13.1"\
+    ],\
+    [\
+      "readdirp",\
+      "npm:4.1.2"\
+    ],\
+    [\
+      "reflect.getprototypeof",\
+      "npm:1.0.10"\
+    ],\
+    [\
+      "regexp.prototype.flags",\
+      "npm:1.5.4"\
+    ],\
+    [\
+      "resolve",\
+      "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d"\
+    ],\
+    [\
       "resolve-from",\
       "npm:4.0.0"\
+    ],\
+    [\
+      "restore-cursor",\
+      "npm:5.1.0"\
     ],\
     [\
       "retry",\
       "npm:0.12.0"\
     ],\
     [\
+      "rfdc",\
+      "npm:1.4.1"\
+    ],\
+    [\
       "rollup",\
       "npm:4.48.1"\
     ],\
     [\
+      "safe-array-concat",\
+      "npm:1.1.3"\
+    ],\
+    [\
+      "safe-push-apply",\
+      "npm:1.0.0"\
+    ],\
+    [\
+      "safe-regex-test",\
+      "npm:1.1.0"\
+    ],\
+    [\
       "safer-buffer",\
       "npm:2.1.2"\
+    ],\
+    [\
+      "sass",\
+      "npm:1.91.0"\
     ],\
     [\
       "scheduler",\
@@ -827,6 +1371,18 @@ const RAW_RUNTIME_STATE =
       "npm:7.7.2"\
     ],\
     [\
+      "set-function-length",\
+      "npm:1.2.2"\
+    ],\
+    [\
+      "set-function-name",\
+      "npm:2.0.2"\
+    ],\
+    [\
+      "set-proto",\
+      "npm:1.0.0"\
+    ],\
+    [\
       "shebang-command",\
       "npm:2.0.0"\
     ],\
@@ -835,8 +1391,28 @@ const RAW_RUNTIME_STATE =
       "npm:3.0.0"\
     ],\
     [\
+      "side-channel",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "side-channel-list",\
+      "npm:1.0.0"\
+    ],\
+    [\
+      "side-channel-map",\
+      "npm:1.0.1"\
+    ],\
+    [\
+      "side-channel-weakmap",\
+      "npm:1.0.2"\
+    ],\
+    [\
       "signal-exit",\
       "npm:4.1.0"\
+    ],\
+    [\
+      "slice-ansi",\
+      "npm:5.0.0"\
     ],\
     [\
       "smart-buffer",\
@@ -859,8 +1435,16 @@ const RAW_RUNTIME_STATE =
       "npm:12.0.0"\
     ],\
     [\
+      "stop-iteration-iterator",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "string-argv",\
+      "npm:0.3.2"\
+    ],\
+    [\
       "string-width",\
-      "npm:5.1.2"\
+      "npm:7.2.0"\
     ],\
     [\
       "string-width-cjs",\
@@ -868,6 +1452,26 @@ const RAW_RUNTIME_STATE =
         "string-width",\
         "npm:4.2.3"\
       ]\
+    ],\
+    [\
+      "string.prototype.matchall",\
+      "npm:4.0.12"\
+    ],\
+    [\
+      "string.prototype.repeat",\
+      "npm:1.0.0"\
+    ],\
+    [\
+      "string.prototype.trim",\
+      "npm:1.2.10"\
+    ],\
+    [\
+      "string.prototype.trimend",\
+      "npm:1.0.9"\
+    ],\
+    [\
+      "string.prototype.trimstart",\
+      "npm:1.0.8"\
     ],\
     [\
       "strip-ansi",\
@@ -889,6 +1493,10 @@ const RAW_RUNTIME_STATE =
       "npm:7.2.0"\
     ],\
     [\
+      "supports-preserve-symlinks-flag",\
+      "npm:1.0.0"\
+    ],\
+    [\
       "tar",\
       "npm:7.4.3"\
     ],\
@@ -897,8 +1505,32 @@ const RAW_RUNTIME_STATE =
       "npm:0.2.14"\
     ],\
     [\
+      "to-regex-range",\
+      "npm:5.0.1"\
+    ],\
+    [\
       "type-check",\
       "npm:0.4.0"\
+    ],\
+    [\
+      "typed-array-buffer",\
+      "npm:1.0.3"\
+    ],\
+    [\
+      "typed-array-byte-length",\
+      "npm:1.0.3"\
+    ],\
+    [\
+      "typed-array-byte-offset",\
+      "npm:1.0.4"\
+    ],\
+    [\
+      "typed-array-length",\
+      "npm:1.0.7"\
+    ],\
+    [\
+      "unbox-primitive",\
+      "npm:1.1.0"\
     ],\
     [\
       "unique-filename",\
@@ -921,12 +1553,28 @@ const RAW_RUNTIME_STATE =
       "npm:2.0.2"\
     ],\
     [\
+      "which-boxed-primitive",\
+      "npm:1.1.1"\
+    ],\
+    [\
+      "which-builtin-type",\
+      "npm:1.2.1"\
+    ],\
+    [\
+      "which-collection",\
+      "npm:1.0.2"\
+    ],\
+    [\
+      "which-typed-array",\
+      "npm:1.1.19"\
+    ],\
+    [\
       "word-wrap",\
       "npm:1.2.5"\
     ],\
     [\
       "wrap-ansi",\
-      "npm:8.1.0"\
+      "npm:9.0.0"\
     ],\
     [\
       "wrap-ansi-cjs",\
@@ -940,6 +1588,10 @@ const RAW_RUNTIME_STATE =
       "npm:4.0.0"\
     ],\
     [\
+      "yaml",\
+      "npm:2.8.1"\
+    ],\
+    [\
       "yocto-queue",\
       "npm:0.1.0"\
     ]\
@@ -950,17 +1602,24 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@eslint/js", "npm:9.34.0"],\
+          ["@popperjs/core", "npm:2.11.8"],\
           ["@types/react", "npm:19.1.11"],\
           ["@types/react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.8"],\
           ["@vitejs/plugin-react-swc", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:4.0.1"],\
           ["bootstrap", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.3.8"],\
           ["cities-and-bikes-react-2025", "workspace:."],\
           ["eslint", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"],\
+          ["eslint-config-prettier", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:10.1.8"],\
+          ["eslint-plugin-react", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.37.5"],\
           ["eslint-plugin-react-hooks", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.2.0"],\
           ["eslint-plugin-react-refresh", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:0.4.20"],\
           ["globals", "npm:16.3.0"],\
+          ["husky", "npm:9.1.7"],\
+          ["lint-staged", "npm:16.1.5"],\
+          ["prettier", "npm:3.6.2"],\
           ["react", "npm:19.1.1"],\
           ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["sass", "npm:1.91.0"],\
           ["vite", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.1.3"]\
         ],\
         "linkType": "SOFT"\
@@ -1238,7 +1897,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@eslint/config-array", "npm:0.21.0"],\
           ["@eslint/object-schema", "npm:2.1.6"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["minimatch", "npm:3.1.2"]\
         ],\
         "linkType": "HARD"\
@@ -1269,7 +1928,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@eslint/eslintrc", "npm:3.3.1"],\
           ["ajv", "npm:6.12.6"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["espree", "npm:10.4.0"],\
           ["globals", "npm:14.0.0"],\
           ["ignore", "npm:5.3.2"],\
@@ -1413,11 +2072,164 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@parcel/watcher", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-npm-2.5.1-018e8f2cc2/node_modules/@parcel/watcher/",\
+        "packageDependencies": [\
+          ["@parcel/watcher", "npm:2.5.1"],\
+          ["@parcel/watcher-android-arm64", "npm:2.5.1"],\
+          ["@parcel/watcher-darwin-arm64", "npm:2.5.1"],\
+          ["@parcel/watcher-darwin-x64", "npm:2.5.1"],\
+          ["@parcel/watcher-freebsd-x64", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-arm-glibc", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-arm-musl", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-arm64-glibc", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-arm64-musl", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-x64-glibc", "npm:2.5.1"],\
+          ["@parcel/watcher-linux-x64-musl", "npm:2.5.1"],\
+          ["@parcel/watcher-win32-arm64", "npm:2.5.1"],\
+          ["@parcel/watcher-win32-ia32", "npm:2.5.1"],\
+          ["@parcel/watcher-win32-x64", "npm:2.5.1"],\
+          ["detect-libc", "npm:1.0.3"],\
+          ["is-glob", "npm:4.0.3"],\
+          ["micromatch", "npm:4.0.8"],\
+          ["node-addon-api", "npm:7.1.1"],\
+          ["node-gyp", "npm:11.4.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-android-arm64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-android-arm64-npm-2.5.1-5eeecb6e21/node_modules/@parcel/watcher-android-arm64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-android-arm64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-darwin-arm64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-darwin-arm64-npm-2.5.1-12be747bca/node_modules/@parcel/watcher-darwin-arm64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-darwin-arm64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-darwin-x64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-darwin-x64-npm-2.5.1-7a8bd09237/node_modules/@parcel/watcher-darwin-x64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-darwin-x64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-freebsd-x64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-freebsd-x64-npm-2.5.1-8d68995fbd/node_modules/@parcel/watcher-freebsd-x64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-freebsd-x64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-arm-glibc", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-arm-glibc-npm-2.5.1-dbba115920/node_modules/@parcel/watcher-linux-arm-glibc/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-arm-glibc", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-arm-musl", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-arm-musl-npm-2.5.1-4c02382019/node_modules/@parcel/watcher-linux-arm-musl/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-arm-musl", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-arm64-glibc", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-arm64-glibc-npm-2.5.1-fcde7c8778/node_modules/@parcel/watcher-linux-arm64-glibc/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-arm64-glibc", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-arm64-musl", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-arm64-musl-npm-2.5.1-130ca76a6e/node_modules/@parcel/watcher-linux-arm64-musl/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-arm64-musl", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-x64-glibc", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-x64-glibc-npm-2.5.1-92a895ebe3/node_modules/@parcel/watcher-linux-x64-glibc/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-x64-glibc", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-linux-x64-musl", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-linux-x64-musl-npm-2.5.1-1f030ca64b/node_modules/@parcel/watcher-linux-x64-musl/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-linux-x64-musl", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-win32-arm64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-win32-arm64-npm-2.5.1-2dfe3131ac/node_modules/@parcel/watcher-win32-arm64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-win32-arm64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-win32-ia32", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-win32-ia32-npm-2.5.1-e70c7b871b/node_modules/@parcel/watcher-win32-ia32/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-win32-ia32", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@parcel/watcher-win32-x64", [\
+      ["npm:2.5.1", {\
+        "packageLocation": "./.yarn/unplugged/@parcel-watcher-win32-x64-npm-2.5.1-6e3012ad80/node_modules/@parcel/watcher-win32-x64/",\
+        "packageDependencies": [\
+          ["@parcel/watcher-win32-x64", "npm:2.5.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@pkgjs/parseargs", [\
       ["npm:0.11.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@pkgjs-parseargs-npm-0.11.0-cd2a3fe948-10c0.zip/node_modules/@pkgjs/parseargs/",\
         "packageDependencies": [\
           ["@pkgjs/parseargs", "npm:0.11.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@popperjs/core", [\
+      ["npm:2.11.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@popperjs-core-npm-2.11.8-f1692e11a0-10c0.zip/node_modules/@popperjs/core/",\
+        "packageDependencies": [\
+          ["@popperjs/core", "npm:2.11.8"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1888,6 +2700,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["ansi-escapes", [\
+      ["npm:7.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ansi-escapes-npm-7.0.0-70628135e5-10c0.zip/node_modules/ansi-escapes/",\
+        "packageDependencies": [\
+          ["ansi-escapes", "npm:7.0.0"],\
+          ["environment", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ansi-regex", [\
       ["npm:5.0.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ansi-regex-npm-5.0.1-c963a48615-10c0.zip/node_modules/ansi-regex/",\
@@ -1930,6 +2752,124 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["array-buffer-byte-length", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array-buffer-byte-length-npm-1.0.2-c2be1e97e0-10c0.zip/node_modules/array-buffer-byte-length/",\
+        "packageDependencies": [\
+          ["array-buffer-byte-length", "npm:1.0.2"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["is-array-buffer", "npm:3.0.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["array-includes", [\
+      ["npm:3.1.9", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array-includes-npm-3.1.9-b081638946-10c0.zip/node_modules/array-includes/",\
+        "packageDependencies": [\
+          ["array-includes", "npm:3.1.9"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["is-string", "npm:1.1.1"],\
+          ["math-intrinsics", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["array.prototype.findlast", [\
+      ["npm:1.2.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array.prototype.findlast-npm-1.2.5-316cb71d39-10c0.zip/node_modules/array.prototype.findlast/",\
+        "packageDependencies": [\
+          ["array.prototype.findlast", "npm:1.2.5"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["es-shim-unscopables", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["array.prototype.flat", [\
+      ["npm:1.3.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array.prototype.flat-npm-1.3.3-51377719d9-10c0.zip/node_modules/array.prototype.flat/",\
+        "packageDependencies": [\
+          ["array.prototype.flat", "npm:1.3.3"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-shim-unscopables", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["array.prototype.flatmap", [\
+      ["npm:1.3.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array.prototype.flatmap-npm-1.3.3-db3afdbfda-10c0.zip/node_modules/array.prototype.flatmap/",\
+        "packageDependencies": [\
+          ["array.prototype.flatmap", "npm:1.3.3"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-shim-unscopables", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["array.prototype.tosorted", [\
+      ["npm:1.1.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/array.prototype.tosorted-npm-1.1.4-c1fc919434-10c0.zip/node_modules/array.prototype.tosorted/",\
+        "packageDependencies": [\
+          ["array.prototype.tosorted", "npm:1.1.4"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-shim-unscopables", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["arraybuffer.prototype.slice", [\
+      ["npm:1.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/arraybuffer.prototype.slice-npm-1.0.4-01f62a9713-10c0.zip/node_modules/arraybuffer.prototype.slice/",\
+        "packageDependencies": [\
+          ["array-buffer-byte-length", "npm:1.0.2"],\
+          ["arraybuffer.prototype.slice", "npm:1.0.4"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["is-array-buffer", "npm:3.0.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["async-function", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/async-function-npm-1.0.0-a81667ebcd-10c0.zip/node_modules/async-function/",\
+        "packageDependencies": [\
+          ["async-function", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["available-typed-arrays", [\
+      ["npm:1.0.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/available-typed-arrays-npm-1.0.7-e5e5d79687-10c0.zip/node_modules/available-typed-arrays/",\
+        "packageDependencies": [\
+          ["available-typed-arrays", "npm:1.0.7"],\
+          ["possible-typed-array-names", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["balanced-match", [\
       ["npm:1.0.2", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/balanced-match-npm-1.0.2-a53c126459-10c0.zip/node_modules/balanced-match/",\
@@ -1950,7 +2890,7 @@ const RAW_RUNTIME_STATE =
       ["virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.3.8", {\
         "packageLocation": "./.yarn/__virtual__/bootstrap-virtual-81e7b55415/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/bootstrap-npm-5.3.8-b7bef82d06-10c0.zip/node_modules/bootstrap/",\
         "packageDependencies": [\
-          ["@popperjs/core", null],\
+          ["@popperjs/core", "npm:2.11.8"],\
           ["@types/popperjs__core", null],\
           ["bootstrap", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.3.8"]\
         ],\
@@ -1980,6 +2920,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["braces", [\
+      ["npm:3.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/braces-npm-3.0.3-582c14023c-10c0.zip/node_modules/braces/",\
+        "packageDependencies": [\
+          ["braces", "npm:3.0.3"],\
+          ["fill-range", "npm:7.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["cacache", [\
       ["npm:19.0.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cacache-npm-19.0.1-395cba1936-10c0.zip/node_modules/cacache/",\
@@ -1997,6 +2947,41 @@ const RAW_RUNTIME_STATE =
           ["ssri", "npm:12.0.0"],\
           ["tar", "npm:7.4.3"],\
           ["unique-filename", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["call-bind", [\
+      ["npm:1.0.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/call-bind-npm-1.0.8-4145a20621-10c0.zip/node_modules/call-bind/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bind-apply-helpers", "npm:1.0.2"],\
+          ["es-define-property", "npm:1.0.1"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["set-function-length", "npm:1.2.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["call-bind-apply-helpers", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/call-bind-apply-helpers-npm-1.0.2-3eedbea3bb-10c0.zip/node_modules/call-bind-apply-helpers/",\
+        "packageDependencies": [\
+          ["call-bind-apply-helpers", "npm:1.0.2"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["function-bind", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["call-bound", [\
+      ["npm:1.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/call-bound-npm-1.0.4-359cfa32c7-10c0.zip/node_modules/call-bound/",\
+        "packageDependencies": [\
+          ["call-bind-apply-helpers", "npm:1.0.2"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-intrinsic", "npm:1.3.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2019,6 +3004,23 @@ const RAW_RUNTIME_STATE =
           ["supports-color", "npm:7.2.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:5.6.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/chalk-npm-5.6.0-a3b5d69c6e-10c0.zip/node_modules/chalk/",\
+        "packageDependencies": [\
+          ["chalk", "npm:5.6.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["chokidar", [\
+      ["npm:4.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/chokidar-npm-4.0.3-962354fbb4-10c0.zip/node_modules/chokidar/",\
+        "packageDependencies": [\
+          ["chokidar", "npm:4.0.3"],\
+          ["readdirp", "npm:4.1.2"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["chownr", [\
@@ -2035,20 +3037,48 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@eslint/js", "npm:9.34.0"],\
+          ["@popperjs/core", "npm:2.11.8"],\
           ["@types/react", "npm:19.1.11"],\
           ["@types/react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.8"],\
           ["@vitejs/plugin-react-swc", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:4.0.1"],\
           ["bootstrap", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.3.8"],\
           ["cities-and-bikes-react-2025", "workspace:."],\
           ["eslint", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"],\
+          ["eslint-config-prettier", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:10.1.8"],\
+          ["eslint-plugin-react", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.37.5"],\
           ["eslint-plugin-react-hooks", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:5.2.0"],\
           ["eslint-plugin-react-refresh", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:0.4.20"],\
           ["globals", "npm:16.3.0"],\
+          ["husky", "npm:9.1.7"],\
+          ["lint-staged", "npm:16.1.5"],\
+          ["prettier", "npm:3.6.2"],\
           ["react", "npm:19.1.1"],\
           ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["sass", "npm:1.91.0"],\
           ["vite", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.1.3"]\
         ],\
         "linkType": "SOFT"\
+      }]\
+    ]],\
+    ["cli-cursor", [\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cli-cursor-npm-5.0.0-444bec1bef-10c0.zip/node_modules/cli-cursor/",\
+        "packageDependencies": [\
+          ["cli-cursor", "npm:5.0.0"],\
+          ["restore-cursor", "npm:5.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["cli-truncate", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cli-truncate-npm-4.0.0-3113917cdb-10c0.zip/node_modules/cli-truncate/",\
+        "packageDependencies": [\
+          ["cli-truncate", "npm:4.0.0"],\
+          ["slice-ansi", "npm:5.0.0"],\
+          ["string-width", "npm:7.2.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["color-convert", [\
@@ -2066,6 +3096,24 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/color-name-npm-1.1.4-025792b0ea-10c0.zip/node_modules/color-name/",\
         "packageDependencies": [\
           ["color-name", "npm:1.1.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["colorette", [\
+      ["npm:2.0.20", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/colorette-npm-2.0.20-692d428726-10c0.zip/node_modules/colorette/",\
+        "packageDependencies": [\
+          ["colorette", "npm:2.0.20"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["commander", [\
+      ["npm:14.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/commander-npm-14.0.0-1e0a7932ab-10c0.zip/node_modules/commander/",\
+        "packageDependencies": [\
+          ["commander", "npm:14.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2100,6 +3148,42 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["data-view-buffer", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/data-view-buffer-npm-1.0.2-93c9247e37-10c0.zip/node_modules/data-view-buffer/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["data-view-buffer", "npm:1.0.2"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["is-data-view", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["data-view-byte-length", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/data-view-byte-length-npm-1.0.2-96d312fb9c-10c0.zip/node_modules/data-view-byte-length/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["data-view-byte-length", "npm:1.0.2"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["is-data-view", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["data-view-byte-offset", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/data-view-byte-offset-npm-1.0.1-315a12a556-10c0.zip/node_modules/data-view-byte-offset/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["data-view-byte-offset", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["is-data-view", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["debug", [\
       ["npm:4.4.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/debug-npm-4.4.1-6eab84b9f7-10c0.zip/node_modules/debug/",\
@@ -2108,11 +3192,11 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1", {\
-        "packageLocation": "./.yarn/__virtual__/debug-virtual-df0c87dd00/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/debug-npm-4.4.1-6eab84b9f7-10c0.zip/node_modules/debug/",\
+      ["virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1", {\
+        "packageLocation": "./.yarn/__virtual__/debug-virtual-18e3a38d53/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/debug-npm-4.4.1-6eab84b9f7-10c0.zip/node_modules/debug/",\
         "packageDependencies": [\
           ["@types/supports-color", null],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["ms", "npm:2.1.3"],\
           ["supports-color", null]\
         ],\
@@ -2132,6 +3216,61 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["define-data-property", [\
+      ["npm:1.1.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/define-data-property-npm-1.1.4-4cbd8efc51-10c0.zip/node_modules/define-data-property/",\
+        "packageDependencies": [\
+          ["define-data-property", "npm:1.1.4"],\
+          ["es-define-property", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["gopd", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["define-properties", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/define-properties-npm-1.2.1-8a4d42413b-10c0.zip/node_modules/define-properties/",\
+        "packageDependencies": [\
+          ["define-data-property", "npm:1.1.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["object-keys", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["detect-libc", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/detect-libc-npm-1.0.3-c30ac344d4-10c0.zip/node_modules/detect-libc/",\
+        "packageDependencies": [\
+          ["detect-libc", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["doctrine", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/doctrine-npm-2.1.0-ac15d049b7-10c0.zip/node_modules/doctrine/",\
+        "packageDependencies": [\
+          ["doctrine", "npm:2.1.0"],\
+          ["esutils", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["dunder-proto", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/dunder-proto-npm-1.0.1-90eb6829db-10c0.zip/node_modules/dunder-proto/",\
+        "packageDependencies": [\
+          ["call-bind-apply-helpers", "npm:1.0.2"],\
+          ["dunder-proto", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["gopd", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["eastasianwidth", [\
       ["npm:0.2.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/eastasianwidth-npm-0.2.0-c37eb16bd1-10c0.zip/node_modules/eastasianwidth/",\
@@ -2142,6 +3281,13 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["emoji-regex", [\
+      ["npm:10.4.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/emoji-regex-npm-10.4.0-919f0a031a-10c0.zip/node_modules/emoji-regex/",\
+        "packageDependencies": [\
+          ["emoji-regex", "npm:10.4.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:8.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/emoji-regex-npm-8.0.0-213764015c-10c0.zip/node_modules/emoji-regex/",\
         "packageDependencies": [\
@@ -2176,11 +3322,171 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["environment", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/environment-npm-1.1.0-3f2409b698-10c0.zip/node_modules/environment/",\
+        "packageDependencies": [\
+          ["environment", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["err-code", [\
       ["npm:2.0.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/err-code-npm-2.0.3-082e0ff9a7-10c0.zip/node_modules/err-code/",\
         "packageDependencies": [\
           ["err-code", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-abstract", [\
+      ["npm:1.24.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-abstract-npm-1.24.0-dc8c602e35-10c0.zip/node_modules/es-abstract/",\
+        "packageDependencies": [\
+          ["array-buffer-byte-length", "npm:1.0.2"],\
+          ["arraybuffer.prototype.slice", "npm:1.0.4"],\
+          ["available-typed-arrays", "npm:1.0.7"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["data-view-buffer", "npm:1.0.2"],\
+          ["data-view-byte-length", "npm:1.0.2"],\
+          ["data-view-byte-offset", "npm:1.0.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-define-property", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["es-set-tostringtag", "npm:2.1.0"],\
+          ["es-to-primitive", "npm:1.3.0"],\
+          ["function.prototype.name", "npm:1.1.8"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["get-symbol-description", "npm:1.1.0"],\
+          ["globalthis", "npm:1.0.4"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["has-proto", "npm:1.2.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["hasown", "npm:2.0.2"],\
+          ["internal-slot", "npm:1.1.0"],\
+          ["is-array-buffer", "npm:3.0.5"],\
+          ["is-callable", "npm:1.2.7"],\
+          ["is-data-view", "npm:1.0.2"],\
+          ["is-negative-zero", "npm:2.0.3"],\
+          ["is-regex", "npm:1.2.1"],\
+          ["is-set", "npm:2.0.3"],\
+          ["is-shared-array-buffer", "npm:1.0.4"],\
+          ["is-string", "npm:1.1.1"],\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["is-weakref", "npm:1.1.1"],\
+          ["math-intrinsics", "npm:1.1.0"],\
+          ["object-inspect", "npm:1.13.4"],\
+          ["object-keys", "npm:1.1.1"],\
+          ["object.assign", "npm:4.1.7"],\
+          ["own-keys", "npm:1.0.1"],\
+          ["regexp.prototype.flags", "npm:1.5.4"],\
+          ["safe-array-concat", "npm:1.1.3"],\
+          ["safe-push-apply", "npm:1.0.0"],\
+          ["safe-regex-test", "npm:1.1.0"],\
+          ["set-proto", "npm:1.0.0"],\
+          ["stop-iteration-iterator", "npm:1.1.0"],\
+          ["string.prototype.trim", "npm:1.2.10"],\
+          ["string.prototype.trimend", "npm:1.0.9"],\
+          ["string.prototype.trimstart", "npm:1.0.8"],\
+          ["typed-array-buffer", "npm:1.0.3"],\
+          ["typed-array-byte-length", "npm:1.0.3"],\
+          ["typed-array-byte-offset", "npm:1.0.4"],\
+          ["typed-array-length", "npm:1.0.7"],\
+          ["unbox-primitive", "npm:1.1.0"],\
+          ["which-typed-array", "npm:1.1.19"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-define-property", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-define-property-npm-1.0.1-3fc6324f1c-10c0.zip/node_modules/es-define-property/",\
+        "packageDependencies": [\
+          ["es-define-property", "npm:1.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-errors", [\
+      ["npm:1.3.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-errors-npm-1.3.0-fda0c9b8a8-10c0.zip/node_modules/es-errors/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-iterator-helpers", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-iterator-helpers-npm-1.2.1-d00703ecc3-10c0.zip/node_modules/es-iterator-helpers/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-iterator-helpers", "npm:1.2.1"],\
+          ["es-set-tostringtag", "npm:2.1.0"],\
+          ["function-bind", "npm:1.1.2"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["globalthis", "npm:1.0.4"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["has-proto", "npm:1.2.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["internal-slot", "npm:1.1.0"],\
+          ["iterator.prototype", "npm:1.1.5"],\
+          ["safe-array-concat", "npm:1.1.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-object-atoms", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-object-atoms-npm-1.1.1-362d8043c2-10c0.zip/node_modules/es-object-atoms/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-set-tostringtag", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-set-tostringtag-npm-2.1.0-4e55705d3f-10c0.zip/node_modules/es-set-tostringtag/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-set-tostringtag", "npm:2.1.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["hasown", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-shim-unscopables", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-shim-unscopables-npm-1.1.0-13f1970345-10c0.zip/node_modules/es-shim-unscopables/",\
+        "packageDependencies": [\
+          ["es-shim-unscopables", "npm:1.1.0"],\
+          ["hasown", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["es-to-primitive", [\
+      ["npm:1.3.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/es-to-primitive-npm-1.3.0-470b6d51b6-10c0.zip/node_modules/es-to-primitive/",\
+        "packageDependencies": [\
+          ["es-to-primitive", "npm:1.3.0"],\
+          ["is-callable", "npm:1.2.7"],\
+          ["is-date-object", "npm:1.1.0"],\
+          ["is-symbol", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2257,7 +3563,7 @@ const RAW_RUNTIME_STATE =
           ["ajv", "npm:6.12.6"],\
           ["chalk", "npm:4.1.2"],\
           ["cross-spawn", "npm:7.0.6"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["escape-string-regexp", "npm:4.0.0"],\
           ["eslint", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"],\
           ["eslint-scope", "npm:8.4.0"],\
@@ -2282,6 +3588,68 @@ const RAW_RUNTIME_STATE =
         "packagePeers": [\
           "@types/jiti",\
           "jiti"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["eslint-config-prettier", [\
+      ["npm:10.1.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/eslint-config-prettier-npm-10.1.8-c1c834370f-10c0.zip/node_modules/eslint-config-prettier/",\
+        "packageDependencies": [\
+          ["eslint-config-prettier", "npm:10.1.8"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:10.1.8", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-config-prettier-virtual-2f3c3c7cb1/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/eslint-config-prettier-npm-10.1.8-c1c834370f-10c0.zip/node_modules/eslint-config-prettier/",\
+        "packageDependencies": [\
+          ["@types/eslint", null],\
+          ["eslint", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"],\
+          ["eslint-config-prettier", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:10.1.8"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "eslint"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["eslint-plugin-react", [\
+      ["npm:7.37.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/eslint-plugin-react-npm-7.37.5-d03f6b6543-10c0.zip/node_modules/eslint-plugin-react/",\
+        "packageDependencies": [\
+          ["eslint-plugin-react", "npm:7.37.5"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.37.5", {\
+        "packageLocation": "./.yarn/__virtual__/eslint-plugin-react-virtual-b32624b357/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/eslint-plugin-react-npm-7.37.5-d03f6b6543-10c0.zip/node_modules/eslint-plugin-react/",\
+        "packageDependencies": [\
+          ["@types/eslint", null],\
+          ["array-includes", "npm:3.1.9"],\
+          ["array.prototype.findlast", "npm:1.2.5"],\
+          ["array.prototype.flatmap", "npm:1.3.3"],\
+          ["array.prototype.tosorted", "npm:1.1.4"],\
+          ["doctrine", "npm:2.1.0"],\
+          ["es-iterator-helpers", "npm:1.2.1"],\
+          ["eslint", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:9.34.0"],\
+          ["eslint-plugin-react", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.37.5"],\
+          ["estraverse", "npm:5.3.0"],\
+          ["hasown", "npm:2.0.2"],\
+          ["jsx-ast-utils", "npm:3.3.5"],\
+          ["minimatch", "npm:3.1.2"],\
+          ["object.entries", "npm:1.1.9"],\
+          ["object.fromentries", "npm:2.0.8"],\
+          ["object.values", "npm:1.2.1"],\
+          ["prop-types", "npm:15.8.1"],\
+          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d"],\
+          ["semver", "npm:6.3.1"],\
+          ["string.prototype.matchall", "npm:4.0.12"],\
+          ["string.prototype.repeat", "npm:1.0.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/eslint",\
+          "eslint"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2407,6 +3775,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["eventemitter3", [\
+      ["npm:5.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/eventemitter3-npm-5.0.1-5e423b7df3-10c0.zip/node_modules/eventemitter3/",\
+        "packageDependencies": [\
+          ["eventemitter3", "npm:5.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["exponential-backoff", [\
       ["npm:3.1.2", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/exponential-backoff-npm-3.1.2-e030c582de-10c0.zip/node_modules/exponential-backoff/",\
@@ -2475,6 +3852,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["fill-range", [\
+      ["npm:7.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/fill-range-npm-7.1.1-bf491486db-10c0.zip/node_modules/fill-range/",\
+        "packageDependencies": [\
+          ["fill-range", "npm:7.1.1"],\
+          ["to-regex-range", "npm:5.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["find-up", [\
       ["npm:5.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/find-up-npm-5.0.0-e03e9b796d-10c0.zip/node_modules/find-up/",\
@@ -2506,6 +3893,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["for-each", [\
+      ["npm:0.3.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/for-each-npm-0.3.5-b74c5c5ba7-10c0.zip/node_modules/for-each/",\
+        "packageDependencies": [\
+          ["for-each", "npm:0.3.5"],\
+          ["is-callable", "npm:1.2.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["foreground-child", [\
       ["npm:3.3.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/foreground-child-npm-3.3.1-b7775fda04-10c0.zip/node_modules/foreground-child/",\
@@ -2533,6 +3930,90 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["fsevents", "patch:fsevents@npm%3A2.3.3#optional!builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"],\
           ["node-gyp", "npm:11.4.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["function-bind", [\
+      ["npm:1.1.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/function-bind-npm-1.1.2-7a55be9b03-10c0.zip/node_modules/function-bind/",\
+        "packageDependencies": [\
+          ["function-bind", "npm:1.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["function.prototype.name", [\
+      ["npm:1.1.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/function.prototype.name-npm-1.1.8-2cf198aac8-10c0.zip/node_modules/function.prototype.name/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["function.prototype.name", "npm:1.1.8"],\
+          ["functions-have-names", "npm:1.2.3"],\
+          ["hasown", "npm:2.0.2"],\
+          ["is-callable", "npm:1.2.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["functions-have-names", [\
+      ["npm:1.2.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/functions-have-names-npm-1.2.3-e5cf1e2208-10c0.zip/node_modules/functions-have-names/",\
+        "packageDependencies": [\
+          ["functions-have-names", "npm:1.2.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["get-east-asian-width", [\
+      ["npm:1.3.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/get-east-asian-width-npm-1.3.0-96a4370305-10c0.zip/node_modules/get-east-asian-width/",\
+        "packageDependencies": [\
+          ["get-east-asian-width", "npm:1.3.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["get-intrinsic", [\
+      ["npm:1.3.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/get-intrinsic-npm-1.3.0-35558f27b6-10c0.zip/node_modules/get-intrinsic/",\
+        "packageDependencies": [\
+          ["call-bind-apply-helpers", "npm:1.0.2"],\
+          ["es-define-property", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["function-bind", "npm:1.1.2"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["hasown", "npm:2.0.2"],\
+          ["math-intrinsics", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["get-proto", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/get-proto-npm-1.0.1-4d30bac614-10c0.zip/node_modules/get-proto/",\
+        "packageDependencies": [\
+          ["dunder-proto", "npm:1.0.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["get-proto", "npm:1.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["get-symbol-description", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/get-symbol-description-npm-1.1.0-7a9e0b1c24-10c0.zip/node_modules/get-symbol-description/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["get-symbol-description", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2578,6 +4059,26 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["globalthis", [\
+      ["npm:1.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/globalthis-npm-1.0.4-de22ac6193-10c0.zip/node_modules/globalthis/",\
+        "packageDependencies": [\
+          ["define-properties", "npm:1.2.1"],\
+          ["globalthis", "npm:1.0.4"],\
+          ["gopd", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["gopd", [\
+      ["npm:1.2.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/gopd-npm-1.2.0-df89ffa78e-10c0.zip/node_modules/gopd/",\
+        "packageDependencies": [\
+          ["gopd", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["graceful-fs", [\
       ["npm:4.2.11", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/graceful-fs-npm-4.2.11-24bb648a68-10c0.zip/node_modules/graceful-fs/",\
@@ -2587,11 +4088,69 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["has-bigints", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-bigints-npm-1.1.0-d481f8ed50-10c0.zip/node_modules/has-bigints/",\
+        "packageDependencies": [\
+          ["has-bigints", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["has-flag", [\
       ["npm:4.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-flag-npm-4.0.0-32af9f0536-10c0.zip/node_modules/has-flag/",\
         "packageDependencies": [\
           ["has-flag", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["has-property-descriptors", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-property-descriptors-npm-1.0.2-d7077d09f1-10c0.zip/node_modules/has-property-descriptors/",\
+        "packageDependencies": [\
+          ["es-define-property", "npm:1.0.1"],\
+          ["has-property-descriptors", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["has-proto", [\
+      ["npm:1.2.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-proto-npm-1.2.0-0108d177d3-10c0.zip/node_modules/has-proto/",\
+        "packageDependencies": [\
+          ["dunder-proto", "npm:1.0.1"],\
+          ["has-proto", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["has-symbols", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-symbols-npm-1.1.0-9aa7dc2ac1-10c0.zip/node_modules/has-symbols/",\
+        "packageDependencies": [\
+          ["has-symbols", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["has-tostringtag", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/has-tostringtag-npm-1.0.2-74a4800369-10c0.zip/node_modules/has-tostringtag/",\
+        "packageDependencies": [\
+          ["has-symbols", "npm:1.1.0"],\
+          ["has-tostringtag", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["hasown", [\
+      ["npm:2.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/hasown-npm-2.0.2-80fe6c9901-10c0.zip/node_modules/hasown/",\
+        "packageDependencies": [\
+          ["function-bind", "npm:1.1.2"],\
+          ["hasown", "npm:2.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2610,7 +4169,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/http-proxy-agent-npm-7.0.2-643ed7cc33-10c0.zip/node_modules/http-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:7.1.4"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["http-proxy-agent", "npm:7.0.2"]\
         ],\
         "linkType": "HARD"\
@@ -2621,8 +4180,17 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/https-proxy-agent-npm-7.0.6-27a95c2690-10c0.zip/node_modules/https-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:7.1.4"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["https-proxy-agent", "npm:7.0.6"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["husky", [\
+      ["npm:9.1.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/husky-npm-9.1.7-5b02eaabc4-10c0.zip/node_modules/husky/",\
+        "packageDependencies": [\
+          ["husky", "npm:9.1.7"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2642,6 +4210,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ignore-npm-5.3.2-346d3ba017-10c0.zip/node_modules/ignore/",\
         "packageDependencies": [\
           ["ignore", "npm:5.3.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["immutable", [\
+      ["npm:5.1.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/immutable-npm-5.1.3-27d8e1c55d-10c0.zip/node_modules/immutable/",\
+        "packageDependencies": [\
+          ["immutable", "npm:5.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2666,11 +4243,112 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["internal-slot", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/internal-slot-npm-1.1.0-269ac0e8be-10c0.zip/node_modules/internal-slot/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["hasown", "npm:2.0.2"],\
+          ["internal-slot", "npm:1.1.0"],\
+          ["side-channel", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ip-address", [\
       ["npm:10.0.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ip-address-npm-10.0.1-862be6199a-10c0.zip/node_modules/ip-address/",\
         "packageDependencies": [\
           ["ip-address", "npm:10.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-array-buffer", [\
+      ["npm:3.0.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-array-buffer-npm-3.0.5-8f0828e156-10c0.zip/node_modules/is-array-buffer/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["is-array-buffer", "npm:3.0.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-async-function", [\
+      ["npm:2.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-async-function-npm-2.1.1-547309fbf2-10c0.zip/node_modules/is-async-function/",\
+        "packageDependencies": [\
+          ["async-function", "npm:1.0.0"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-async-function", "npm:2.1.1"],\
+          ["safe-regex-test", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-bigint", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-bigint-npm-1.1.0-963b4e89e1-10c0.zip/node_modules/is-bigint/",\
+        "packageDependencies": [\
+          ["has-bigints", "npm:1.1.0"],\
+          ["is-bigint", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-boolean-object", [\
+      ["npm:1.2.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-boolean-object-npm-1.2.2-ceb8c82b17-10c0.zip/node_modules/is-boolean-object/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-boolean-object", "npm:1.2.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-callable", [\
+      ["npm:1.2.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-callable-npm-1.2.7-808a303e61-10c0.zip/node_modules/is-callable/",\
+        "packageDependencies": [\
+          ["is-callable", "npm:1.2.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-core-module", [\
+      ["npm:2.16.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-core-module-npm-2.16.1-a54837229e-10c0.zip/node_modules/is-core-module/",\
+        "packageDependencies": [\
+          ["hasown", "npm:2.0.2"],\
+          ["is-core-module", "npm:2.16.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-data-view", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-data-view-npm-1.0.2-8a9e34c5e6-10c0.zip/node_modules/is-data-view/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["is-data-view", "npm:1.0.2"],\
+          ["is-typed-array", "npm:1.1.15"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-date-object", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-date-object-npm-1.1.0-c444eba828-10c0.zip/node_modules/is-date-object/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-date-object", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2684,11 +4362,49 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["is-finalizationregistry", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-finalizationregistry-npm-1.1.1-f9cad6c9aa-10c0.zip/node_modules/is-finalizationregistry/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["is-finalizationregistry", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["is-fullwidth-code-point", [\
       ["npm:3.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-fullwidth-code-point-npm-3.0.0-1ecf4ebee5-10c0.zip/node_modules/is-fullwidth-code-point/",\
         "packageDependencies": [\
           ["is-fullwidth-code-point", "npm:3.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-fullwidth-code-point-npm-4.0.0-848488b60d-10c0.zip/node_modules/is-fullwidth-code-point/",\
+        "packageDependencies": [\
+          ["is-fullwidth-code-point", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-fullwidth-code-point-npm-5.0.0-5eb90c2a6e-10c0.zip/node_modules/is-fullwidth-code-point/",\
+        "packageDependencies": [\
+          ["get-east-asian-width", "npm:1.3.0"],\
+          ["is-fullwidth-code-point", "npm:5.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-generator-function", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-generator-function-npm-1.1.0-e96e2ba973-10c0.zip/node_modules/is-generator-function/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-generator-function", "npm:1.1.0"],\
+          ["safe-regex-test", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2699,6 +4415,148 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["is-extglob", "npm:2.1.1"],\
           ["is-glob", "npm:4.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-map", [\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-map-npm-2.0.3-9e061e76e3-10c0.zip/node_modules/is-map/",\
+        "packageDependencies": [\
+          ["is-map", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-negative-zero", [\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-negative-zero-npm-2.0.3-d06b09e322-10c0.zip/node_modules/is-negative-zero/",\
+        "packageDependencies": [\
+          ["is-negative-zero", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-number", [\
+      ["npm:7.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-number-npm-7.0.0-060086935c-10c0.zip/node_modules/is-number/",\
+        "packageDependencies": [\
+          ["is-number", "npm:7.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-number-object", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-number-object-npm-1.1.1-010c417fc6-10c0.zip/node_modules/is-number-object/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-number-object", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-regex", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-regex-npm-1.2.1-70a484f2c8-10c0.zip/node_modules/is-regex/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["hasown", "npm:2.0.2"],\
+          ["is-regex", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-set", [\
+      ["npm:2.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-set-npm-2.0.3-1b72c9a855-10c0.zip/node_modules/is-set/",\
+        "packageDependencies": [\
+          ["is-set", "npm:2.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-shared-array-buffer", [\
+      ["npm:1.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-shared-array-buffer-npm-1.0.4-70c977585b-10c0.zip/node_modules/is-shared-array-buffer/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["is-shared-array-buffer", "npm:1.0.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-string", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-string-npm-1.1.1-d2c4f9f448-10c0.zip/node_modules/is-string/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-string", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-symbol", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-symbol-npm-1.1.1-f17b666ca9-10c0.zip/node_modules/is-symbol/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["is-symbol", "npm:1.1.1"],\
+          ["safe-regex-test", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-typed-array", [\
+      ["npm:1.1.15", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-typed-array-npm-1.1.15-33aa18e28f-10c0.zip/node_modules/is-typed-array/",\
+        "packageDependencies": [\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["which-typed-array", "npm:1.1.19"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-weakmap", [\
+      ["npm:2.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-weakmap-npm-2.0.2-ced3cab2dc-10c0.zip/node_modules/is-weakmap/",\
+        "packageDependencies": [\
+          ["is-weakmap", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-weakref", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-weakref-npm-1.1.1-e6458807f4-10c0.zip/node_modules/is-weakref/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["is-weakref", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["is-weakset", [\
+      ["npm:2.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/is-weakset-npm-2.0.4-155b83e84b-10c0.zip/node_modules/is-weakset/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["is-weakset", "npm:2.0.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["isarray", [\
+      ["npm:2.0.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/isarray-npm-2.0.5-4ba522212d-10c0.zip/node_modules/isarray/",\
+        "packageDependencies": [\
+          ["isarray", "npm:2.0.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2719,6 +4577,21 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["iterator.prototype", [\
+      ["npm:1.1.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/iterator.prototype-npm-1.1.5-923c4c9977-10c0.zip/node_modules/iterator.prototype/",\
+        "packageDependencies": [\
+          ["define-data-property", "npm:1.1.4"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["iterator.prototype", "npm:1.1.5"],\
+          ["set-function-name", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["jackspeak", [\
       ["npm:3.4.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/jackspeak-npm-3.4.3-546bfad080-10c0.zip/node_modules/jackspeak/",\
@@ -2726,6 +4599,15 @@ const RAW_RUNTIME_STATE =
           ["@isaacs/cliui", "npm:8.0.2"],\
           ["@pkgjs/parseargs", "npm:0.11.0"],\
           ["jackspeak", "npm:3.4.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["js-tokens", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/js-tokens-npm-4.0.0-0ac852e9e2-10c0.zip/node_modules/js-tokens/",\
+        "packageDependencies": [\
+          ["js-tokens", "npm:4.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2767,6 +4649,19 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["jsx-ast-utils", [\
+      ["npm:3.3.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/jsx-ast-utils-npm-3.3.5-114c80f97a-10c0.zip/node_modules/jsx-ast-utils/",\
+        "packageDependencies": [\
+          ["array-includes", "npm:3.1.9"],\
+          ["array.prototype.flat", "npm:1.3.3"],\
+          ["jsx-ast-utils", "npm:3.3.5"],\
+          ["object.assign", "npm:4.1.7"],\
+          ["object.values", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["keyv", [\
       ["npm:4.5.4", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/keyv-npm-4.5.4-4c8e2cf7f7-10c0.zip/node_modules/keyv/",\
@@ -2788,6 +4683,49 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["lilconfig", [\
+      ["npm:3.1.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/lilconfig-npm-3.1.3-74a77377bb-10c0.zip/node_modules/lilconfig/",\
+        "packageDependencies": [\
+          ["lilconfig", "npm:3.1.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["lint-staged", [\
+      ["npm:16.1.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/lint-staged-npm-16.1.5-8b8b80d7ec-10c0.zip/node_modules/lint-staged/",\
+        "packageDependencies": [\
+          ["chalk", "npm:5.6.0"],\
+          ["commander", "npm:14.0.0"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
+          ["lilconfig", "npm:3.1.3"],\
+          ["lint-staged", "npm:16.1.5"],\
+          ["listr2", "npm:9.0.2"],\
+          ["micromatch", "npm:4.0.8"],\
+          ["nano-spawn", "npm:1.0.2"],\
+          ["pidtree", "npm:0.6.0"],\
+          ["string-argv", "npm:0.3.2"],\
+          ["yaml", "npm:2.8.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["listr2", [\
+      ["npm:9.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/listr2-npm-9.0.2-552e615a4e-10c0.zip/node_modules/listr2/",\
+        "packageDependencies": [\
+          ["cli-truncate", "npm:4.0.0"],\
+          ["colorette", "npm:2.0.20"],\
+          ["eventemitter3", "npm:5.0.1"],\
+          ["listr2", "npm:9.0.2"],\
+          ["log-update", "npm:6.1.0"],\
+          ["rfdc", "npm:1.4.1"],\
+          ["wrap-ansi", "npm:9.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["locate-path", [\
       ["npm:6.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/locate-path-npm-6.0.0-06a1e4c528-10c0.zip/node_modules/locate-path/",\
@@ -2803,6 +4741,30 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/lodash.merge-npm-4.6.2-77cb4416bf-10c0.zip/node_modules/lodash.merge/",\
         "packageDependencies": [\
           ["lodash.merge", "npm:4.6.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["log-update", [\
+      ["npm:6.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/log-update-npm-6.1.0-2ca9435417-10c0.zip/node_modules/log-update/",\
+        "packageDependencies": [\
+          ["ansi-escapes", "npm:7.0.0"],\
+          ["cli-cursor", "npm:5.0.0"],\
+          ["log-update", "npm:6.1.0"],\
+          ["slice-ansi", "npm:7.1.0"],\
+          ["strip-ansi", "npm:7.1.0"],\
+          ["wrap-ansi", "npm:9.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["loose-envify", [\
+      ["npm:1.4.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/loose-envify-npm-1.4.0-6307b72ccf-10c0.zip/node_modules/loose-envify/",\
+        "packageDependencies": [\
+          ["js-tokens", "npm:4.0.0"],\
+          ["loose-envify", "npm:1.4.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2832,6 +4794,35 @@ const RAW_RUNTIME_STATE =
           ["proc-log", "npm:5.0.0"],\
           ["promise-retry", "npm:2.0.1"],\
           ["ssri", "npm:12.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["math-intrinsics", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/math-intrinsics-npm-1.1.0-9204d80e7d-10c0.zip/node_modules/math-intrinsics/",\
+        "packageDependencies": [\
+          ["math-intrinsics", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["micromatch", [\
+      ["npm:4.0.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/micromatch-npm-4.0.8-c9570e4aca-10c0.zip/node_modules/micromatch/",\
+        "packageDependencies": [\
+          ["braces", "npm:3.0.3"],\
+          ["micromatch", "npm:4.0.8"],\
+          ["picomatch", "npm:2.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["mimic-function", [\
+      ["npm:5.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/mimic-function-npm-5.0.1-5078456e31-10c0.zip/node_modules/mimic-function/",\
+        "packageDependencies": [\
+          ["mimic-function", "npm:5.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2952,6 +4943,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["nano-spawn", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/nano-spawn-npm-1.0.2-030f0eb41e-10c0.zip/node_modules/nano-spawn/",\
+        "packageDependencies": [\
+          ["nano-spawn", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["nanoid", [\
       ["npm:3.3.11", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/nanoid-npm-3.3.11-f98c1f9ef6-10c0.zip/node_modules/nanoid/",\
@@ -2975,6 +4975,16 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/negotiator-npm-1.0.0-47d727e27e-10c0.zip/node_modules/negotiator/",\
         "packageDependencies": [\
           ["negotiator", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["node-addon-api", [\
+      ["npm:7.1.1", {\
+        "packageLocation": "./.yarn/unplugged/node-addon-api-npm-7.1.1-bfb302df19/node_modules/node-addon-api/",\
+        "packageDependencies": [\
+          ["node-addon-api", "npm:7.1.1"],\
+          ["node-gyp", "npm:11.4.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3008,6 +5018,97 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["object-assign", [\
+      ["npm:4.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object-assign-npm-4.1.1-1004ad6dec-10c0.zip/node_modules/object-assign/",\
+        "packageDependencies": [\
+          ["object-assign", "npm:4.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object-inspect", [\
+      ["npm:1.13.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object-inspect-npm-1.13.4-4e741f9806-10c0.zip/node_modules/object-inspect/",\
+        "packageDependencies": [\
+          ["object-inspect", "npm:1.13.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object-keys", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object-keys-npm-1.1.1-1bf2f1be93-10c0.zip/node_modules/object-keys/",\
+        "packageDependencies": [\
+          ["object-keys", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object.assign", [\
+      ["npm:4.1.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object.assign-npm-4.1.7-a3464be41b-10c0.zip/node_modules/object.assign/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["object-keys", "npm:1.1.1"],\
+          ["object.assign", "npm:4.1.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object.entries", [\
+      ["npm:1.1.9", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object.entries-npm-1.1.9-32f1b371e0-10c0.zip/node_modules/object.entries/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["object.entries", "npm:1.1.9"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object.fromentries", [\
+      ["npm:2.0.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object.fromentries-npm-2.0.8-8f6e2db04a-10c0.zip/node_modules/object.fromentries/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["object.fromentries", "npm:2.0.8"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["object.values", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/object.values-npm-1.2.1-cd21c82f2d-10c0.zip/node_modules/object.values/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["object.values", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["onetime", [\
+      ["npm:7.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/onetime-npm-7.0.0-cfdd2a579d-10c0.zip/node_modules/onetime/",\
+        "packageDependencies": [\
+          ["mimic-function", "npm:5.0.1"],\
+          ["onetime", "npm:7.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["optionator", [\
       ["npm:0.9.4", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/optionator-npm-0.9.4-1f114b00e8-10c0.zip/node_modules/optionator/",\
@@ -3019,6 +5120,18 @@ const RAW_RUNTIME_STATE =
           ["prelude-ls", "npm:1.2.1"],\
           ["type-check", "npm:0.4.0"],\
           ["word-wrap", "npm:1.2.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["own-keys", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/own-keys-npm-1.0.1-1253f9b344-10c0.zip/node_modules/own-keys/",\
+        "packageDependencies": [\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["object-keys", "npm:1.1.1"],\
+          ["own-keys", "npm:1.0.1"],\
+          ["safe-push-apply", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3089,6 +5202,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["path-parse", [\
+      ["npm:1.0.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/path-parse-npm-1.0.7-09564527b7-10c0.zip/node_modules/path-parse/",\
+        "packageDependencies": [\
+          ["path-parse", "npm:1.0.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["path-scurry", [\
       ["npm:1.11.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/path-scurry-npm-1.11.1-aaf8c339af-10c0.zip/node_modules/path-scurry/",\
@@ -3110,10 +5232,35 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["picomatch", [\
+      ["npm:2.3.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/picomatch-npm-2.3.1-c782cfd986-10c0.zip/node_modules/picomatch/",\
+        "packageDependencies": [\
+          ["picomatch", "npm:2.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:4.0.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/picomatch-npm-4.0.3-0a647b87cc-10c0.zip/node_modules/picomatch/",\
         "packageDependencies": [\
           ["picomatch", "npm:4.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["pidtree", [\
+      ["npm:0.6.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/pidtree-npm-0.6.0-3d92e16117-10c0.zip/node_modules/pidtree/",\
+        "packageDependencies": [\
+          ["pidtree", "npm:0.6.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["possible-typed-array-names", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/possible-typed-array-names-npm-1.1.0-ce60ca4401-10c0.zip/node_modules/possible-typed-array-names/",\
+        "packageDependencies": [\
+          ["possible-typed-array-names", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3139,6 +5286,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["prettier", [\
+      ["npm:3.6.2", {\
+        "packageLocation": "./.yarn/unplugged/prettier-npm-3.6.2-2668152203/node_modules/prettier/",\
+        "packageDependencies": [\
+          ["prettier", "npm:3.6.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["proc-log", [\
       ["npm:5.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/proc-log-npm-5.0.0-405173f9b4-10c0.zip/node_modules/proc-log/",\
@@ -3155,6 +5311,18 @@ const RAW_RUNTIME_STATE =
           ["err-code", "npm:2.0.3"],\
           ["promise-retry", "npm:2.0.1"],\
           ["retry", "npm:0.12.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["prop-types", [\
+      ["npm:15.8.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/prop-types-npm-15.8.1-17c71ee7ee-10c0.zip/node_modules/prop-types/",\
+        "packageDependencies": [\
+          ["loose-envify", "npm:1.4.0"],\
+          ["object-assign", "npm:4.1.1"],\
+          ["prop-types", "npm:15.8.1"],\
+          ["react-is", "npm:16.13.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3200,6 +5368,68 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["react-is", [\
+      ["npm:16.13.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/react-is-npm-16.13.1-a9b9382b4f-10c0.zip/node_modules/react-is/",\
+        "packageDependencies": [\
+          ["react-is", "npm:16.13.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["readdirp", [\
+      ["npm:4.1.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/readdirp-npm-4.1.2-3440472afe-10c0.zip/node_modules/readdirp/",\
+        "packageDependencies": [\
+          ["readdirp", "npm:4.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["reflect.getprototypeof", [\
+      ["npm:1.0.10", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/reflect.getprototypeof-npm-1.0.10-8c3ce862a2-10c0.zip/node_modules/reflect.getprototypeof/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["reflect.getprototypeof", "npm:1.0.10"],\
+          ["which-builtin-type", "npm:1.2.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["regexp.prototype.flags", [\
+      ["npm:1.5.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/regexp.prototype.flags-npm-1.5.4-39008ab64c-10c0.zip/node_modules/regexp.prototype.flags/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["gopd", "npm:1.2.0"],\
+          ["regexp.prototype.flags", "npm:1.5.4"],\
+          ["set-function-name", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["resolve", [\
+      ["patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/resolve-patch-95f8f5d302-10c0.zip/node_modules/resolve/",\
+        "packageDependencies": [\
+          ["is-core-module", "npm:2.16.1"],\
+          ["path-parse", "npm:1.0.7"],\
+          ["resolve", "patch:resolve@npm%3A2.0.0-next.5#optional!builtin<compat/resolve>::version=2.0.0-next.5&hash=c3c19d"],\
+          ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["resolve-from", [\
       ["npm:4.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/resolve-from-npm-4.0.0-f758ec21bf-10c0.zip/node_modules/resolve-from/",\
@@ -3209,11 +5439,31 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["restore-cursor", [\
+      ["npm:5.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/restore-cursor-npm-5.1.0-b8fd1128bf-10c0.zip/node_modules/restore-cursor/",\
+        "packageDependencies": [\
+          ["onetime", "npm:7.0.0"],\
+          ["restore-cursor", "npm:5.1.0"],\
+          ["signal-exit", "npm:4.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["retry", [\
       ["npm:0.12.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/retry-npm-0.12.0-72ac7fb4cc-10c0.zip/node_modules/retry/",\
         "packageDependencies": [\
           ["retry", "npm:0.12.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["rfdc", [\
+      ["npm:1.4.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/rfdc-npm-1.4.1-1a1c63d052-10c0.zip/node_modules/rfdc/",\
+        "packageDependencies": [\
+          ["rfdc", "npm:1.4.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3249,11 +5499,61 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["safe-array-concat", [\
+      ["npm:1.1.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/safe-array-concat-npm-1.1.3-dab0384e54-10c0.zip/node_modules/safe-array-concat/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["isarray", "npm:2.0.5"],\
+          ["safe-array-concat", "npm:1.1.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["safe-push-apply", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/safe-push-apply-npm-1.0.0-51a0a42944-10c0.zip/node_modules/safe-push-apply/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["isarray", "npm:2.0.5"],\
+          ["safe-push-apply", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["safe-regex-test", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/safe-regex-test-npm-1.1.0-453eb81b83-10c0.zip/node_modules/safe-regex-test/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["is-regex", "npm:1.2.1"],\
+          ["safe-regex-test", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["safer-buffer", [\
       ["npm:2.1.2", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/safer-buffer-npm-2.1.2-8d5c0b705e-10c0.zip/node_modules/safer-buffer/",\
         "packageDependencies": [\
           ["safer-buffer", "npm:2.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["sass", [\
+      ["npm:1.91.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/sass-npm-1.91.0-7ce5b90a78-10c0.zip/node_modules/sass/",\
+        "packageDependencies": [\
+          ["@parcel/watcher", "npm:2.5.1"],\
+          ["chokidar", "npm:4.0.3"],\
+          ["immutable", "npm:5.1.3"],\
+          ["sass", "npm:1.91.0"],\
+          ["source-map-js", "npm:1.2.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3268,10 +5568,57 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["semver", [\
+      ["npm:6.3.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/semver-npm-6.3.1-bcba31fdbe-10c0.zip/node_modules/semver/",\
+        "packageDependencies": [\
+          ["semver", "npm:6.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
       ["npm:7.7.2", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/semver-npm-7.7.2-dfc3bc5ec9-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
           ["semver", "npm:7.7.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["set-function-length", [\
+      ["npm:1.2.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/set-function-length-npm-1.2.2-243073748b-10c0.zip/node_modules/set-function-length/",\
+        "packageDependencies": [\
+          ["define-data-property", "npm:1.1.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["function-bind", "npm:1.1.2"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["set-function-length", "npm:1.2.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["set-function-name", [\
+      ["npm:2.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/set-function-name-npm-2.0.2-3d9a2d8899-10c0.zip/node_modules/set-function-name/",\
+        "packageDependencies": [\
+          ["define-data-property", "npm:1.1.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["functions-have-names", "npm:1.2.3"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["set-function-name", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["set-proto", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/set-proto-npm-1.0.0-68d7485485-10c0.zip/node_modules/set-proto/",\
+        "packageDependencies": [\
+          ["dunder-proto", "npm:1.0.1"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["set-proto", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3295,11 +5642,83 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["side-channel", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/side-channel-npm-1.1.0-4993930974-10c0.zip/node_modules/side-channel/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["object-inspect", "npm:1.13.4"],\
+          ["side-channel", "npm:1.1.0"],\
+          ["side-channel-list", "npm:1.0.0"],\
+          ["side-channel-map", "npm:1.0.1"],\
+          ["side-channel-weakmap", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["side-channel-list", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/side-channel-list-npm-1.0.0-14f74146d1-10c0.zip/node_modules/side-channel-list/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["object-inspect", "npm:1.13.4"],\
+          ["side-channel-list", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["side-channel-map", [\
+      ["npm:1.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/side-channel-map-npm-1.0.1-5903573b3c-10c0.zip/node_modules/side-channel-map/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["object-inspect", "npm:1.13.4"],\
+          ["side-channel-map", "npm:1.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["side-channel-weakmap", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/side-channel-weakmap-npm-1.0.2-027acaf499-10c0.zip/node_modules/side-channel-weakmap/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["object-inspect", "npm:1.13.4"],\
+          ["side-channel-map", "npm:1.0.1"],\
+          ["side-channel-weakmap", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["signal-exit", [\
       ["npm:4.1.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/signal-exit-npm-4.1.0-61fb957687-10c0.zip/node_modules/signal-exit/",\
         "packageDependencies": [\
           ["signal-exit", "npm:4.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["slice-ansi", [\
+      ["npm:5.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/slice-ansi-npm-5.0.0-8cd4f226df-10c0.zip/node_modules/slice-ansi/",\
+        "packageDependencies": [\
+          ["ansi-styles", "npm:6.2.1"],\
+          ["is-fullwidth-code-point", "npm:4.0.0"],\
+          ["slice-ansi", "npm:5.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:7.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/slice-ansi-npm-7.1.0-ecf63701b8-10c0.zip/node_modules/slice-ansi/",\
+        "packageDependencies": [\
+          ["ansi-styles", "npm:6.2.1"],\
+          ["is-fullwidth-code-point", "npm:5.0.0"],\
+          ["slice-ansi", "npm:7.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3329,7 +5748,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/socks-proxy-agent-npm-8.0.5-24d77a90dc-10c0.zip/node_modules/socks-proxy-agent/",\
         "packageDependencies": [\
           ["agent-base", "npm:7.1.4"],\
-          ["debug", "virtual:33589d8154ee9b01f053e5f9b9657e36e349d10535f5963e24203660b3292f6b5d3ad64314773b25cb7ba33298de2f25c2ed9454e5f5e9999e7c3b19f6286965#npm:4.4.1"],\
+          ["debug", "virtual:8b8b80d7ecbdc2207121fbf2bd7cd4f019fd89279ea0cd5b731063a37da02dbdf2f8f248e609f0f226c3f86bffe0a55aa761ca106f3e6babab5b61d5224783cf#npm:4.4.1"],\
           ["socks", "npm:2.8.7"],\
           ["socks-proxy-agent", "npm:8.0.5"]\
         ],\
@@ -3355,6 +5774,26 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["stop-iteration-iterator", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/stop-iteration-iterator-npm-1.1.0-057344287e-10c0.zip/node_modules/stop-iteration-iterator/",\
+        "packageDependencies": [\
+          ["es-errors", "npm:1.3.0"],\
+          ["internal-slot", "npm:1.1.0"],\
+          ["stop-iteration-iterator", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string-argv", [\
+      ["npm:0.3.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string-argv-npm-0.3.2-6e057a88f1-10c0.zip/node_modules/string-argv/",\
+        "packageDependencies": [\
+          ["string-argv", "npm:0.3.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["string-width", [\
       ["npm:4.2.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string-width-npm-4.2.3-2c27177bae-10c0.zip/node_modules/string-width/",\
@@ -3373,6 +5812,90 @@ const RAW_RUNTIME_STATE =
           ["emoji-regex", "npm:9.2.2"],\
           ["string-width", "npm:5.1.2"],\
           ["strip-ansi", "npm:7.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:7.2.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string-width-npm-7.2.0-93572222c9-10c0.zip/node_modules/string-width/",\
+        "packageDependencies": [\
+          ["emoji-regex", "npm:10.4.0"],\
+          ["get-east-asian-width", "npm:1.3.0"],\
+          ["string-width", "npm:7.2.0"],\
+          ["strip-ansi", "npm:7.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string.prototype.matchall", [\
+      ["npm:4.0.12", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string.prototype.matchall-npm-4.0.12-0bc859367d-10c0.zip/node_modules/string.prototype.matchall/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["get-intrinsic", "npm:1.3.0"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["internal-slot", "npm:1.1.0"],\
+          ["regexp.prototype.flags", "npm:1.5.4"],\
+          ["set-function-name", "npm:2.0.2"],\
+          ["side-channel", "npm:1.1.0"],\
+          ["string.prototype.matchall", "npm:4.0.12"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string.prototype.repeat", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string.prototype.repeat-npm-1.0.0-3f87f5fd9e-10c0.zip/node_modules/string.prototype.repeat/",\
+        "packageDependencies": [\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["string.prototype.repeat", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string.prototype.trim", [\
+      ["npm:1.2.10", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string.prototype.trim-npm-1.2.10-40a44bc719-10c0.zip/node_modules/string.prototype.trim/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-data-property", "npm:1.1.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-abstract", "npm:1.24.0"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["has-property-descriptors", "npm:1.0.2"],\
+          ["string.prototype.trim", "npm:1.2.10"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string.prototype.trimend", [\
+      ["npm:1.0.9", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string.prototype.trimend-npm-1.0.9-e8729528fb-10c0.zip/node_modules/string.prototype.trimend/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["string.prototype.trimend", "npm:1.0.9"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["string.prototype.trimstart", [\
+      ["npm:1.0.8", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/string.prototype.trimstart-npm-1.0.8-8c6b16ba6e-10c0.zip/node_modules/string.prototype.trimstart/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["define-properties", "npm:1.2.1"],\
+          ["es-object-atoms", "npm:1.1.1"],\
+          ["string.prototype.trimstart", "npm:1.0.8"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3414,6 +5937,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["supports-preserve-symlinks-flag", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/supports-preserve-symlinks-flag-npm-1.0.0-f17c4d0028-10c0.zip/node_modules/supports-preserve-symlinks-flag/",\
+        "packageDependencies": [\
+          ["supports-preserve-symlinks-flag", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["tar", [\
       ["npm:7.4.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/tar-npm-7.4.3-1dbbd1ffc3-10c0.zip/node_modules/tar/",\
@@ -3440,12 +5972,92 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["to-regex-range", [\
+      ["npm:5.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/to-regex-range-npm-5.0.1-f1e8263b00-10c0.zip/node_modules/to-regex-range/",\
+        "packageDependencies": [\
+          ["is-number", "npm:7.0.0"],\
+          ["to-regex-range", "npm:5.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["type-check", [\
       ["npm:0.4.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/type-check-npm-0.4.0-60565800ce-10c0.zip/node_modules/type-check/",\
         "packageDependencies": [\
           ["prelude-ls", "npm:1.2.1"],\
           ["type-check", "npm:0.4.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["typed-array-buffer", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/typed-array-buffer-npm-1.0.3-bddcba0c25-10c0.zip/node_modules/typed-array-buffer/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["es-errors", "npm:1.3.0"],\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["typed-array-buffer", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["typed-array-byte-length", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/typed-array-byte-length-npm-1.0.3-0769937080-10c0.zip/node_modules/typed-array-byte-length/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["for-each", "npm:0.3.5"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-proto", "npm:1.2.0"],\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["typed-array-byte-length", "npm:1.0.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["typed-array-byte-offset", [\
+      ["npm:1.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/typed-array-byte-offset-npm-1.0.4-12f60e4553-10c0.zip/node_modules/typed-array-byte-offset/",\
+        "packageDependencies": [\
+          ["available-typed-arrays", "npm:1.0.7"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["for-each", "npm:0.3.5"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-proto", "npm:1.2.0"],\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["reflect.getprototypeof", "npm:1.0.10"],\
+          ["typed-array-byte-offset", "npm:1.0.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["typed-array-length", [\
+      ["npm:1.0.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/typed-array-length-npm-1.0.7-ac6ef772a7-10c0.zip/node_modules/typed-array-length/",\
+        "packageDependencies": [\
+          ["call-bind", "npm:1.0.8"],\
+          ["for-each", "npm:0.3.5"],\
+          ["gopd", "npm:1.2.0"],\
+          ["is-typed-array", "npm:1.1.15"],\
+          ["possible-typed-array-names", "npm:1.1.0"],\
+          ["reflect.getprototypeof", "npm:1.0.10"],\
+          ["typed-array-length", "npm:1.0.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["unbox-primitive", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/unbox-primitive-npm-1.1.0-269638c590-10c0.zip/node_modules/unbox-primitive/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["has-bigints", "npm:1.1.0"],\
+          ["has-symbols", "npm:1.1.0"],\
+          ["unbox-primitive", "npm:1.1.0"],\
+          ["which-boxed-primitive", "npm:1.1.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3511,7 +6123,7 @@ const RAW_RUNTIME_STATE =
           ["picomatch", "npm:4.0.3"],\
           ["postcss", "npm:8.5.6"],\
           ["rollup", "npm:4.48.1"],\
-          ["sass", null],\
+          ["sass", "npm:1.91.0"],\
           ["sass-embedded", null],\
           ["stylus", null],\
           ["sugarss", null],\
@@ -3565,6 +6177,71 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["which-boxed-primitive", [\
+      ["npm:1.1.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/which-boxed-primitive-npm-1.1.1-80ca20c912-10c0.zip/node_modules/which-boxed-primitive/",\
+        "packageDependencies": [\
+          ["is-bigint", "npm:1.1.0"],\
+          ["is-boolean-object", "npm:1.2.2"],\
+          ["is-number-object", "npm:1.1.1"],\
+          ["is-string", "npm:1.1.1"],\
+          ["is-symbol", "npm:1.1.1"],\
+          ["which-boxed-primitive", "npm:1.1.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["which-builtin-type", [\
+      ["npm:1.2.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/which-builtin-type-npm-1.2.1-bbbdf9137f-10c0.zip/node_modules/which-builtin-type/",\
+        "packageDependencies": [\
+          ["call-bound", "npm:1.0.4"],\
+          ["function.prototype.name", "npm:1.1.8"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["is-async-function", "npm:2.1.1"],\
+          ["is-date-object", "npm:1.1.0"],\
+          ["is-finalizationregistry", "npm:1.1.1"],\
+          ["is-generator-function", "npm:1.1.0"],\
+          ["is-regex", "npm:1.2.1"],\
+          ["is-weakref", "npm:1.1.1"],\
+          ["isarray", "npm:2.0.5"],\
+          ["which-boxed-primitive", "npm:1.1.1"],\
+          ["which-builtin-type", "npm:1.2.1"],\
+          ["which-collection", "npm:1.0.2"],\
+          ["which-typed-array", "npm:1.1.19"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["which-collection", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/which-collection-npm-1.0.2-0d6277e921-10c0.zip/node_modules/which-collection/",\
+        "packageDependencies": [\
+          ["is-map", "npm:2.0.3"],\
+          ["is-set", "npm:2.0.3"],\
+          ["is-weakmap", "npm:2.0.2"],\
+          ["is-weakset", "npm:2.0.4"],\
+          ["which-collection", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["which-typed-array", [\
+      ["npm:1.1.19", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/which-typed-array-npm-1.1.19-e664d1e89c-10c0.zip/node_modules/which-typed-array/",\
+        "packageDependencies": [\
+          ["available-typed-arrays", "npm:1.0.7"],\
+          ["call-bind", "npm:1.0.8"],\
+          ["call-bound", "npm:1.0.4"],\
+          ["for-each", "npm:0.3.5"],\
+          ["get-proto", "npm:1.0.1"],\
+          ["gopd", "npm:1.2.0"],\
+          ["has-tostringtag", "npm:1.0.2"],\
+          ["which-typed-array", "npm:1.1.19"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["word-wrap", [\
       ["npm:1.2.5", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/word-wrap-npm-1.2.5-42d00c4b09-10c0.zip/node_modules/word-wrap/",\
@@ -3594,6 +6271,16 @@ const RAW_RUNTIME_STATE =
           ["wrap-ansi", "npm:8.1.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:9.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/wrap-ansi-npm-9.0.0-c35f82c87c-10c0.zip/node_modules/wrap-ansi/",\
+        "packageDependencies": [\
+          ["ansi-styles", "npm:6.2.1"],\
+          ["string-width", "npm:7.2.0"],\
+          ["strip-ansi", "npm:7.1.0"],\
+          ["wrap-ansi", "npm:9.0.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["yallist", [\
@@ -3608,6 +6295,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/yallist-npm-5.0.0-8732dd9f1c-10c0.zip/node_modules/yallist/",\
         "packageDependencies": [\
           ["yallist", "npm:5.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["yaml", [\
+      ["npm:2.8.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/yaml-npm-2.8.1-b364b3bec4-10c0.zip/node_modules/yaml/",\
+        "packageDependencies": [\
+          ["yaml", "npm:2.8.1"]\
         ],\
         "linkType": "HARD"\
       }]\
