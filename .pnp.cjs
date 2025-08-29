@@ -187,6 +187,34 @@ const RAW_RUNTIME_STATE =
       "npm:4.0.1"\
     ],\
     [\
+      "@mapbox/jsonlint-lines-primitives",\
+      "npm:2.0.2"\
+    ],\
+    [\
+      "@mapbox/mapbox-gl-supported",\
+      "npm:3.0.0"\
+    ],\
+    [\
+      "@mapbox/point-geometry",\
+      "npm:1.1.0"\
+    ],\
+    [\
+      "@mapbox/tiny-sdf",\
+      "npm:2.0.7"\
+    ],\
+    [\
+      "@mapbox/unitbezier",\
+      "npm:0.0.1"\
+    ],\
+    [\
+      "@mapbox/vector-tile",\
+      "npm:2.0.4"\
+    ],\
+    [\
+      "@mapbox/whoots-js",\
+      "npm:3.1.0"\
+    ],\
+    [\
       "@npmcli/agent",\
       "npm:3.0.0"\
     ],\
@@ -399,8 +427,24 @@ const RAW_RUNTIME_STATE =
       "npm:1.0.8"\
     ],\
     [\
+      "@types/geojson",\
+      "npm:7946.0.16"\
+    ],\
+    [\
+      "@types/geojson-vt",\
+      "npm:3.2.5"\
+    ],\
+    [\
       "@types/json-schema",\
       "npm:7.0.15"\
+    ],\
+    [\
+      "@types/mapbox__point-geometry",\
+      "npm:0.1.4"\
+    ],\
+    [\
+      "@types/pbf",\
+      "npm:3.0.5"\
     ],\
     [\
       "@types/react",\
@@ -409,6 +453,10 @@ const RAW_RUNTIME_STATE =
     [\
       "@types/react-dom",\
       "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.8"\
+    ],\
+    [\
+      "@types/supercluster",\
+      "npm:7.1.3"\
     ],\
     [\
       "@vitejs/plugin-react-swc",\
@@ -527,6 +575,10 @@ const RAW_RUNTIME_STATE =
       "npm:4.1.2"\
     ],\
     [\
+      "cheap-ruler",\
+      "npm:4.0.0"\
+    ],\
+    [\
       "chokidar",\
       "npm:4.0.3"\
     ],\
@@ -563,8 +615,16 @@ const RAW_RUNTIME_STATE =
       "npm:0.0.1"\
     ],\
     [\
+      "cookie",\
+      "npm:1.0.2"\
+    ],\
+    [\
       "cross-spawn",\
       "npm:7.0.6"\
+    ],\
+    [\
+      "csscolorparser",\
+      "npm:1.0.3"\
     ],\
     [\
       "csstype",\
@@ -609,6 +669,10 @@ const RAW_RUNTIME_STATE =
     [\
       "dunder-proto",\
       "npm:1.0.1"\
+    ],\
+    [\
+      "earcut",\
+      "npm:3.0.2"\
     ],\
     [\
       "eastasianwidth",\
@@ -795,6 +859,10 @@ const RAW_RUNTIME_STATE =
       "npm:1.2.3"\
     ],\
     [\
+      "geojson-vt",\
+      "npm:4.0.2"\
+    ],\
+    [\
       "get-east-asian-width",\
       "npm:1.3.0"\
     ],\
@@ -809,6 +877,10 @@ const RAW_RUNTIME_STATE =
     [\
       "get-symbol-description",\
       "npm:1.1.0"\
+    ],\
+    [\
+      "gl-matrix",\
+      "npm:3.4.4"\
     ],\
     [\
       "glob",\
@@ -833,6 +905,10 @@ const RAW_RUNTIME_STATE =
     [\
       "graceful-fs",\
       "npm:4.2.11"\
+    ],\
+    [\
+      "grid-index",\
+      "npm:1.1.0"\
     ],\
     [\
       "has-bigints",\
@@ -1051,6 +1127,10 @@ const RAW_RUNTIME_STATE =
       "npm:3.3.5"\
     ],\
     [\
+      "kdbush",\
+      "npm:4.0.2"\
+    ],\
+    [\
       "keyv",\
       "npm:4.5.4"\
     ],\
@@ -1093,6 +1173,14 @@ const RAW_RUNTIME_STATE =
     [\
       "make-fetch-happen",\
       "npm:14.0.3"\
+    ],\
+    [\
+      "mapbox-gl",\
+      "npm:3.14.0"\
+    ],\
+    [\
+      "martinez-polygon-clipping",\
+      "npm:0.7.4"\
     ],\
     [\
       "math-intrinsics",\
@@ -1145,6 +1233,10 @@ const RAW_RUNTIME_STATE =
     [\
       "ms",\
       "npm:2.1.3"\
+    ],\
+    [\
+      "murmurhash-js",\
+      "npm:1.0.0"\
     ],\
     [\
       "nano-spawn",\
@@ -1251,6 +1343,10 @@ const RAW_RUNTIME_STATE =
       "npm:1.11.1"\
     ],\
     [\
+      "pbf",\
+      "npm:4.0.1"\
+    ],\
+    [\
       "picocolors",\
       "npm:1.1.1"\
     ],\
@@ -1269,6 +1365,10 @@ const RAW_RUNTIME_STATE =
     [\
       "postcss",\
       "npm:8.5.6"\
+    ],\
+    [\
+      "potpack",\
+      "npm:2.1.0"\
     ],\
     [\
       "prelude-ls",\
@@ -1291,8 +1391,16 @@ const RAW_RUNTIME_STATE =
       "npm:15.8.1"\
     ],\
     [\
+      "protocol-buffers-schema",\
+      "npm:3.6.0"\
+    ],\
+    [\
       "punycode",\
       "npm:2.3.1"\
+    ],\
+    [\
+      "quickselect",\
+      "npm:3.0.0"\
     ],\
     [\
       "react",\
@@ -1305,6 +1413,14 @@ const RAW_RUNTIME_STATE =
     [\
       "react-is",\
       "npm:16.13.1"\
+    ],\
+    [\
+      "react-router",\
+      "virtual:46a6a13707992f3ae574c611f8e2de8c20c5f980ce4d9212a1a7b9547e67673bdd597ffd257b92bf5eacbfe56ffa6944cbe14879083e6e0fc1f3caed5ddd40fb#npm:7.8.2"\
+    ],\
+    [\
+      "react-router-dom",\
+      "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.8.2"\
     ],\
     [\
       "readdirp",\
@@ -1327,6 +1443,10 @@ const RAW_RUNTIME_STATE =
       "npm:4.0.0"\
     ],\
     [\
+      "resolve-protobuf-schema",\
+      "npm:2.1.0"\
+    ],\
+    [\
       "restore-cursor",\
       "npm:5.1.0"\
     ],\
@@ -1337,6 +1457,10 @@ const RAW_RUNTIME_STATE =
     [\
       "rfdc",\
       "npm:1.4.1"\
+    ],\
+    [\
+      "robust-predicates",\
+      "npm:2.0.4"\
     ],\
     [\
       "rollup",\
@@ -1369,6 +1493,14 @@ const RAW_RUNTIME_STATE =
     [\
       "semver",\
       "npm:7.7.2"\
+    ],\
+    [\
+      "serialize-to-js",\
+      "npm:3.1.2"\
+    ],\
+    [\
+      "set-cookie-parser",\
+      "npm:2.7.1"\
     ],\
     [\
       "set-function-length",\
@@ -1431,6 +1563,10 @@ const RAW_RUNTIME_STATE =
       "npm:1.2.1"\
     ],\
     [\
+      "splaytree",\
+      "npm:0.1.4"\
+    ],\
+    [\
       "ssri",\
       "npm:12.0.0"\
     ],\
@@ -1489,6 +1625,10 @@ const RAW_RUNTIME_STATE =
       "npm:3.1.1"\
     ],\
     [\
+      "supercluster",\
+      "npm:8.0.1"\
+    ],\
+    [\
       "supports-color",\
       "npm:7.2.0"\
     ],\
@@ -1503,6 +1643,10 @@ const RAW_RUNTIME_STATE =
     [\
       "tinyglobby",\
       "npm:0.2.14"\
+    ],\
+    [\
+      "tinyqueue",\
+      "npm:1.2.3"\
     ],\
     [\
       "to-regex-range",\
@@ -1616,9 +1760,12 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:16.3.0"],\
           ["husky", "npm:9.1.7"],\
           ["lint-staged", "npm:16.1.5"],\
+          ["mapbox-gl", "npm:3.14.0"],\
           ["prettier", "npm:3.6.2"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.1.1"],\
           ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["react-router-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.8.2"],\
           ["sass", "npm:1.91.0"],\
           ["vite", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.1.3"]\
         ],\
@@ -2044,6 +2191,72 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@isaacs/fs-minipass", "npm:4.0.1"],\
           ["minipass", "npm:7.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/jsonlint-lines-primitives", [\
+      ["npm:2.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-jsonlint-lines-primitives-npm-2.0.2-f48e04c479-10c0.zip/node_modules/@mapbox/jsonlint-lines-primitives/",\
+        "packageDependencies": [\
+          ["@mapbox/jsonlint-lines-primitives", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/mapbox-gl-supported", [\
+      ["npm:3.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-mapbox-gl-supported-npm-3.0.0-0dd620d48d-10c0.zip/node_modules/@mapbox/mapbox-gl-supported/",\
+        "packageDependencies": [\
+          ["@mapbox/mapbox-gl-supported", "npm:3.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/point-geometry", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-point-geometry-npm-1.1.0-03914a78ee-10c0.zip/node_modules/@mapbox/point-geometry/",\
+        "packageDependencies": [\
+          ["@mapbox/point-geometry", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/tiny-sdf", [\
+      ["npm:2.0.7", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-tiny-sdf-npm-2.0.7-24217f1dee-10c0.zip/node_modules/@mapbox/tiny-sdf/",\
+        "packageDependencies": [\
+          ["@mapbox/tiny-sdf", "npm:2.0.7"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/unitbezier", [\
+      ["npm:0.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-unitbezier-npm-0.0.1-4d3f0f5e22-10c0.zip/node_modules/@mapbox/unitbezier/",\
+        "packageDependencies": [\
+          ["@mapbox/unitbezier", "npm:0.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/vector-tile", [\
+      ["npm:2.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-vector-tile-npm-2.0.4-a2828be665-10c0.zip/node_modules/@mapbox/vector-tile/",\
+        "packageDependencies": [\
+          ["@mapbox/point-geometry", "npm:1.1.0"],\
+          ["@mapbox/vector-tile", "npm:2.0.4"],\
+          ["@types/geojson", "npm:7946.0.16"],\
+          ["pbf", "npm:4.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@mapbox/whoots-js", [\
+      ["npm:3.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@mapbox-whoots-js-npm-3.1.0-25c0fa7510-10c0.zip/node_modules/@mapbox/whoots-js/",\
+        "packageDependencies": [\
+          ["@mapbox/whoots-js", "npm:3.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2575,11 +2788,48 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@types/geojson", [\
+      ["npm:7946.0.16", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-geojson-npm-7946.0.16-7a73d95991-10c0.zip/node_modules/@types/geojson/",\
+        "packageDependencies": [\
+          ["@types/geojson", "npm:7946.0.16"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@types/geojson-vt", [\
+      ["npm:3.2.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-geojson-vt-npm-3.2.5-c10dbfd5e3-10c0.zip/node_modules/@types/geojson-vt/",\
+        "packageDependencies": [\
+          ["@types/geojson", "npm:7946.0.16"],\
+          ["@types/geojson-vt", "npm:3.2.5"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@types/json-schema", [\
       ["npm:7.0.15", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-json-schema-npm-7.0.15-fd16381786-10c0.zip/node_modules/@types/json-schema/",\
         "packageDependencies": [\
           ["@types/json-schema", "npm:7.0.15"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@types/mapbox__point-geometry", [\
+      ["npm:0.1.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-mapbox__point-geometry-npm-0.1.4-5fa761d79c-10c0.zip/node_modules/@types/mapbox__point-geometry/",\
+        "packageDependencies": [\
+          ["@types/mapbox__point-geometry", "npm:0.1.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@types/pbf", [\
+      ["npm:3.0.5", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-pbf-npm-3.0.5-be36bd95c4-10c0.zip/node_modules/@types/pbf/",\
+        "packageDependencies": [\
+          ["@types/pbf", "npm:3.0.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -2610,6 +2860,16 @@ const RAW_RUNTIME_STATE =
         ],\
         "packagePeers": [\
           "@types/react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@types/supercluster", [\
+      ["npm:7.1.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/@types-supercluster-npm-7.1.3-79beee5ea1-10c0.zip/node_modules/@types/supercluster/",\
+        "packageDependencies": [\
+          ["@types/geojson", "npm:7946.0.16"],\
+          ["@types/supercluster", "npm:7.1.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3013,6 +3273,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["cheap-ruler", [\
+      ["npm:4.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cheap-ruler-npm-4.0.0-7bbbe67181-10c0.zip/node_modules/cheap-ruler/",\
+        "packageDependencies": [\
+          ["cheap-ruler", "npm:4.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["chokidar", [\
       ["npm:4.0.3", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/chokidar-npm-4.0.3-962354fbb4-10c0.zip/node_modules/chokidar/",\
@@ -3051,9 +3320,12 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:16.3.0"],\
           ["husky", "npm:9.1.7"],\
           ["lint-staged", "npm:16.1.5"],\
+          ["mapbox-gl", "npm:3.14.0"],\
           ["prettier", "npm:3.6.2"],\
+          ["prop-types", "npm:15.8.1"],\
           ["react", "npm:19.1.1"],\
           ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["react-router-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.8.2"],\
           ["sass", "npm:1.91.0"],\
           ["vite", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.1.3"]\
         ],\
@@ -3127,6 +3399,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["cookie", [\
+      ["npm:1.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cookie-npm-1.0.2-7a4273d897-10c0.zip/node_modules/cookie/",\
+        "packageDependencies": [\
+          ["cookie", "npm:1.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["cross-spawn", [\
       ["npm:7.0.6", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/cross-spawn-npm-7.0.6-264bddf921-10c0.zip/node_modules/cross-spawn/",\
@@ -3135,6 +3416,15 @@ const RAW_RUNTIME_STATE =
           ["path-key", "npm:3.1.1"],\
           ["shebang-command", "npm:2.0.0"],\
           ["which", "npm:2.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["csscolorparser", [\
+      ["npm:1.0.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/csscolorparser-npm-1.0.3-cd8e162bc9-10c0.zip/node_modules/csscolorparser/",\
+        "packageDependencies": [\
+          ["csscolorparser", "npm:1.0.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3267,6 +3557,15 @@ const RAW_RUNTIME_STATE =
           ["dunder-proto", "npm:1.0.1"],\
           ["es-errors", "npm:1.3.0"],\
           ["gopd", "npm:1.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["earcut", [\
+      ["npm:3.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/earcut-npm-3.0.2-8ded068ed2-10c0.zip/node_modules/earcut/",\
+        "packageDependencies": [\
+          ["earcut", "npm:3.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3967,6 +4266,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["geojson-vt", [\
+      ["npm:4.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/geojson-vt-npm-4.0.2-71cc4f2bdb-10c0.zip/node_modules/geojson-vt/",\
+        "packageDependencies": [\
+          ["geojson-vt", "npm:4.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["get-east-asian-width", [\
       ["npm:1.3.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/get-east-asian-width-npm-1.3.0-96a4370305-10c0.zip/node_modules/get-east-asian-width/",\
@@ -4014,6 +4322,15 @@ const RAW_RUNTIME_STATE =
           ["es-errors", "npm:1.3.0"],\
           ["get-intrinsic", "npm:1.3.0"],\
           ["get-symbol-description", "npm:1.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["gl-matrix", [\
+      ["npm:3.4.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/gl-matrix-npm-3.4.4-71fd3e0306-10c0.zip/node_modules/gl-matrix/",\
+        "packageDependencies": [\
+          ["gl-matrix", "npm:3.4.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4084,6 +4401,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/graceful-fs-npm-4.2.11-24bb648a68-10c0.zip/node_modules/graceful-fs/",\
         "packageDependencies": [\
           ["graceful-fs", "npm:4.2.11"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["grid-index", [\
+      ["npm:1.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/grid-index-npm-1.1.0-fe69e26b3f-10c0.zip/node_modules/grid-index/",\
+        "packageDependencies": [\
+          ["grid-index", "npm:1.1.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4662,6 +4988,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["kdbush", [\
+      ["npm:4.0.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/kdbush-npm-4.0.2-e4894ed9f4-10c0.zip/node_modules/kdbush/",\
+        "packageDependencies": [\
+          ["kdbush", "npm:4.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["keyv", [\
       ["npm:4.5.4", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/keyv-npm-4.5.4-4c8e2cf7f7-10c0.zip/node_modules/keyv/",\
@@ -4794,6 +5129,54 @@ const RAW_RUNTIME_STATE =
           ["proc-log", "npm:5.0.0"],\
           ["promise-retry", "npm:2.0.1"],\
           ["ssri", "npm:12.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["mapbox-gl", [\
+      ["npm:3.14.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/mapbox-gl-npm-3.14.0-ef6987d0d4-10c0.zip/node_modules/mapbox-gl/",\
+        "packageDependencies": [\
+          ["@mapbox/jsonlint-lines-primitives", "npm:2.0.2"],\
+          ["@mapbox/mapbox-gl-supported", "npm:3.0.0"],\
+          ["@mapbox/point-geometry", "npm:1.1.0"],\
+          ["@mapbox/tiny-sdf", "npm:2.0.7"],\
+          ["@mapbox/unitbezier", "npm:0.0.1"],\
+          ["@mapbox/vector-tile", "npm:2.0.4"],\
+          ["@mapbox/whoots-js", "npm:3.1.0"],\
+          ["@types/geojson", "npm:7946.0.16"],\
+          ["@types/geojson-vt", "npm:3.2.5"],\
+          ["@types/mapbox__point-geometry", "npm:0.1.4"],\
+          ["@types/pbf", "npm:3.0.5"],\
+          ["@types/supercluster", "npm:7.1.3"],\
+          ["cheap-ruler", "npm:4.0.0"],\
+          ["csscolorparser", "npm:1.0.3"],\
+          ["earcut", "npm:3.0.2"],\
+          ["geojson-vt", "npm:4.0.2"],\
+          ["gl-matrix", "npm:3.4.4"],\
+          ["grid-index", "npm:1.1.0"],\
+          ["kdbush", "npm:4.0.2"],\
+          ["mapbox-gl", "npm:3.14.0"],\
+          ["martinez-polygon-clipping", "npm:0.7.4"],\
+          ["murmurhash-js", "npm:1.0.0"],\
+          ["pbf", "npm:4.0.1"],\
+          ["potpack", "npm:2.1.0"],\
+          ["quickselect", "npm:3.0.0"],\
+          ["serialize-to-js", "npm:3.1.2"],\
+          ["supercluster", "npm:8.0.1"],\
+          ["tinyqueue", "npm:3.0.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["martinez-polygon-clipping", [\
+      ["npm:0.7.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/martinez-polygon-clipping-npm-0.7.4-df787f1619-10c0.zip/node_modules/martinez-polygon-clipping/",\
+        "packageDependencies": [\
+          ["martinez-polygon-clipping", "npm:0.7.4"],\
+          ["robust-predicates", "npm:2.0.4"],\
+          ["splaytree", "npm:0.1.4"],\
+          ["tinyqueue", "npm:1.2.3"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -4939,6 +5322,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ms-npm-2.1.3-81ff3cfac1-10c0.zip/node_modules/ms/",\
         "packageDependencies": [\
           ["ms", "npm:2.1.3"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["murmurhash-js", [\
+      ["npm:1.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/murmurhash-js-npm-1.0.0-b1fa804bc0-10c0.zip/node_modules/murmurhash-js/",\
+        "packageDependencies": [\
+          ["murmurhash-js", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5222,6 +5614,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["pbf", [\
+      ["npm:4.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/pbf-npm-4.0.1-57e61e349f-10c0.zip/node_modules/pbf/",\
+        "packageDependencies": [\
+          ["pbf", "npm:4.0.1"],\
+          ["resolve-protobuf-schema", "npm:2.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["picocolors", [\
       ["npm:1.1.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/picocolors-npm-1.1.1-4fede47cf1-10c0.zip/node_modules/picocolors/",\
@@ -5277,6 +5679,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["potpack", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/potpack-npm-2.1.0-c3e72f5f6b-10c0.zip/node_modules/potpack/",\
+        "packageDependencies": [\
+          ["potpack", "npm:2.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["prelude-ls", [\
       ["npm:1.2.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/prelude-ls-npm-1.2.1-3e4d272a55-10c0.zip/node_modules/prelude-ls/",\
@@ -5327,11 +5738,29 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["protocol-buffers-schema", [\
+      ["npm:3.6.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/protocol-buffers-schema-npm-3.6.0-af2f375e69-10c0.zip/node_modules/protocol-buffers-schema/",\
+        "packageDependencies": [\
+          ["protocol-buffers-schema", "npm:3.6.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["punycode", [\
       ["npm:2.3.1", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/punycode-npm-2.3.1-97543c420d-10c0.zip/node_modules/punycode/",\
         "packageDependencies": [\
           ["punycode", "npm:2.3.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["quickselect", [\
+      ["npm:3.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/quickselect-npm-3.0.0-d8a89dd23f-10c0.zip/node_modules/quickselect/",\
+        "packageDependencies": [\
+          ["quickselect", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5373,6 +5802,61 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/react-is-npm-16.13.1-a9b9382b4f-10c0.zip/node_modules/react-is/",\
         "packageDependencies": [\
           ["react-is", "npm:16.13.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["react-router", [\
+      ["npm:7.8.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/react-router-npm-7.8.2-38b7281933-10c0.zip/node_modules/react-router/",\
+        "packageDependencies": [\
+          ["react-router", "npm:7.8.2"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:46a6a13707992f3ae574c611f8e2de8c20c5f980ce4d9212a1a7b9547e67673bdd597ffd257b92bf5eacbfe56ffa6944cbe14879083e6e0fc1f3caed5ddd40fb#npm:7.8.2", {\
+        "packageLocation": "./.yarn/__virtual__/react-router-virtual-ca9ee91a26/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/react-router-npm-7.8.2-38b7281933-10c0.zip/node_modules/react-router/",\
+        "packageDependencies": [\
+          ["@types/react", "npm:19.1.11"],\
+          ["@types/react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.8"],\
+          ["cookie", "npm:1.0.2"],\
+          ["react", "npm:19.1.1"],\
+          ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["react-router", "virtual:46a6a13707992f3ae574c611f8e2de8c20c5f980ce4d9212a1a7b9547e67673bdd597ffd257b92bf5eacbfe56ffa6944cbe14879083e6e0fc1f3caed5ddd40fb#npm:7.8.2"],\
+          ["set-cookie-parser", "npm:2.7.1"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["react-router-dom", [\
+      ["npm:7.8.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/react-router-dom-npm-7.8.2-2a4ef66b0d-10c0.zip/node_modules/react-router-dom/",\
+        "packageDependencies": [\
+          ["react-router-dom", "npm:7.8.2"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.8.2", {\
+        "packageLocation": "./.yarn/__virtual__/react-router-dom-virtual-46a6a13707/4/Users/hoplon/AppData/Local/Yarn/Berry/cache/react-router-dom-npm-7.8.2-2a4ef66b0d-10c0.zip/node_modules/react-router-dom/",\
+        "packageDependencies": [\
+          ["@types/react", "npm:19.1.11"],\
+          ["@types/react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.8"],\
+          ["react", "npm:19.1.1"],\
+          ["react-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:19.1.1"],\
+          ["react-router", "virtual:46a6a13707992f3ae574c611f8e2de8c20c5f980ce4d9212a1a7b9547e67673bdd597ffd257b92bf5eacbfe56ffa6944cbe14879083e6e0fc1f3caed5ddd40fb#npm:7.8.2"],\
+          ["react-router-dom", "virtual:e1753bdb3a92a127cdc4a63b20ac8c6b7702e1eaaf00c57e9c3d6a826474627106ba66c50dd4e5b0d8826d1316f67e9ca334ed7f7ccabd8b904445030e9b3ec6#npm:7.8.2"]\
+        ],\
+        "packagePeers": [\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5439,6 +5923,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["resolve-protobuf-schema", [\
+      ["npm:2.1.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/resolve-protobuf-schema-npm-2.1.0-56c0d37a08-10c0.zip/node_modules/resolve-protobuf-schema/",\
+        "packageDependencies": [\
+          ["protocol-buffers-schema", "npm:3.6.0"],\
+          ["resolve-protobuf-schema", "npm:2.1.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["restore-cursor", [\
       ["npm:5.1.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/restore-cursor-npm-5.1.0-b8fd1128bf-10c0.zip/node_modules/restore-cursor/",\
@@ -5464,6 +5958,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/rfdc-npm-1.4.1-1a1c63d052-10c0.zip/node_modules/rfdc/",\
         "packageDependencies": [\
           ["rfdc", "npm:1.4.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["robust-predicates", [\
+      ["npm:2.0.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/robust-predicates-npm-2.0.4-1b628708f6-10c0.zip/node_modules/robust-predicates/",\
+        "packageDependencies": [\
+          ["robust-predicates", "npm:2.0.4"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5579,6 +6082,24 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/semver-npm-7.7.2-dfc3bc5ec9-10c0.zip/node_modules/semver/",\
         "packageDependencies": [\
           ["semver", "npm:7.7.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["serialize-to-js", [\
+      ["npm:3.1.2", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/serialize-to-js-npm-3.1.2-7d355f6fc1-10c0.zip/node_modules/serialize-to-js/",\
+        "packageDependencies": [\
+          ["serialize-to-js", "npm:3.1.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["set-cookie-parser", [\
+      ["npm:2.7.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/set-cookie-parser-npm-2.7.1-0e92d9e679-10c0.zip/node_modules/set-cookie-parser/",\
+        "packageDependencies": [\
+          ["set-cookie-parser", "npm:2.7.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -5764,6 +6285,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["splaytree", [\
+      ["npm:0.1.4", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/splaytree-npm-0.1.4-bacc1a98e4-10c0.zip/node_modules/splaytree/",\
+        "packageDependencies": [\
+          ["splaytree", "npm:0.1.4"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ssri", [\
       ["npm:12.0.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/ssri-npm-12.0.0-97c0e53d2e-10c0.zip/node_modules/ssri/",\
@@ -5927,6 +6457,16 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["supercluster", [\
+      ["npm:8.0.1", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/supercluster-npm-8.0.1-32b2d8d364-10c0.zip/node_modules/supercluster/",\
+        "packageDependencies": [\
+          ["kdbush", "npm:4.0.2"],\
+          ["supercluster", "npm:8.0.1"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["supports-color", [\
       ["npm:7.2.0", {\
         "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/supports-color-npm-7.2.0-606bfcf7da-10c0.zip/node_modules/supports-color/",\
@@ -5968,6 +6508,22 @@ const RAW_RUNTIME_STATE =
           ["fdir", "virtual:d4e4bcf80e67f9de0540c123c7c4882e34dce6a8ba807a0a834f267f9132ee6bd264e69a49c6203aa89877ed3a5a5d633bfa002384881be452cc3a2d2fbcce0b#npm:6.5.0"],\
           ["picomatch", "npm:4.0.3"],\
           ["tinyglobby", "npm:0.2.14"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["tinyqueue", [\
+      ["npm:1.2.3", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/tinyqueue-npm-1.2.3-260a27c35a-10c0.zip/node_modules/tinyqueue/",\
+        "packageDependencies": [\
+          ["tinyqueue", "npm:1.2.3"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:3.0.0", {\
+        "packageLocation": "../../../Users/hoplon/AppData/Local/Yarn/Berry/cache/tinyqueue-npm-3.0.0-2afeed8c36-10c0.zip/node_modules/tinyqueue/",\
+        "packageDependencies": [\
+          ["tinyqueue", "npm:3.0.0"]\
         ],\
         "linkType": "HARD"\
       }]\
